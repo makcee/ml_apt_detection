@@ -1,0 +1,292 @@
+##################################################################################################################################################################################
+Folder 1 ### create_csv.py
+"create_csv.py" uses "pace_classification.txt" to create "labeled_based_on_score.csv"
+Running Time : Instant
+
+##################################################################################################################################################################################
+Folder 1.2 ### create_csv.py
+"create_csv.py" uses "pace_classification.txt" to create "apt_labeled_based_on_score.csv" in step 1
+"create_csv.py" uses "apt_labeled_based_on_score.csv" to create "apt_filtered.csv" & "samples_with_label_3.txt" in step 2
+Running Time : Instant
+
+line 19 ... Python List Comprehension
+categorized_scores = [categorize_score(float(score.strip())) for score in scores]
+
+line 19 ... Python String strip() Method ... The strip() method removes any leading, and trailing whitespaces.
+categorized_scores = [categorize_score(float(score.strip())) for score in scores]
+
+line 21 ... When writing output to the stream, if newline is set to '' or '\n', no translation takes place.
+with open('apt_labeled_based_on_score.csv', 'w', newline='') as csvfile:
+
+line 22 ... csv.writer() ... Return a writer object responsible for converting the user’s data into delimited strings on the given file-like object.
+writer = csv.writer(csvfile)
+
+line 24 ... csvwriter.writerow(row) ... Write the row parameter to the writer’s file object, formatted according to the current Dialect.
+writer.writerow(['sample', 'label'])
+
+line 25&26 ... Python enumerate() Function ... The enumerate() function takes a collection (e.g. a tuple) and returns it as an enumerate object.
+										       The enumerate() function adds a counter as the key of the enumerate object.
+for i, score in enumerate(categorized_scores, start=1):
+	writer.writerow([i, score])
+
+line 39 ... csv.reader() ... Return a reader object that will process lines from the given csvfile.
+reader = csv.reader(csvfile)
+
+line 41 ... Python next() method ... The next() function returns the next item in an iterator.
+header = next(reader)
+
+line 53 ... csvwriter.writerows(rows) ... Write all elements in rows to the writer’s file object, formatted according to the current dialect.
+writer.writerows(filtered_rows)
+
+##################################################################################################################################################################################
+Folder 2 ### create_csv.py
+"create_csv.py" uses "pace_feature_matrix.txt" to create "sample_features.json"
+Running Time : 30 minutes
+
+line 31 ... pandas.read_csv()
+	sep : str, default ',' : Character or regex pattern to treat as the delimiter.
+	header : int, Sequence of int, 'infer' or None, default 'infer' : Row number(s) containing column labels and marking the start
+			 of the data (zero-indexed). Default behavior is to infer the column names.
+	names : Sequence of Hashable, optional : Sequence of column labels to apply.
+df_features = pd.read_csv('pace_feature_matrix.txt', sep='\t', header=None, names=['sample', 'feature', 'count'])
+
+line 36 ... pandas.DataFrame.iterrows 
+	Iterate over DataFrame rows as (index, Series) pairs.
+	index : label or tuple of label : The index of the row.
+	data : Series : The data of the row as a Series.
+for index, row in df_features.iterrows():
+	...
+
+line 52 & 53 ... json.dump()
+	converts the Python objects into appropriate json objects.
+with open('sample_features.json', 'w') as file:
+    json.dump(sample_features, file, indent=4)
+
+##################################################################################################################################################################################
+Folder 3 ### alternative_feature_filtering.py
+"alternative_feature_filtering.py" uses "labeled_based_on_score.csv" & "sample_features.json" to create "features.txt"
+Running Time : Between 1 & 2 days
+
+line 5 & 6 ... json.load()
+	takes a file object and returns the json object.
+with open('sample_features.json', 'r') as file:
+    sample_features = json.load(file)
+
+line 28 ... Python Dictionary get() Method
+	The get() method returns the value of the item with the specified key.
+	Syntax : dictionary.get(keyname, value)
+	keyname : Required. The keyname of the item you want to return the value from.
+	value : Optional. A value to return if the specified key does not exist. Default value None.
+for 
+	...
+	for
+		feature_values.append(sample_features.get(sample_num, {}).get(feature_num, 0))
+    ...
+
+##################################################################################################################################################################################
+Folder 4 ### create_top_correlated_features.py
+"create_top_correlated_features.py" uses "features.txt" to create "top_correlated_features.txt"
+Running Time : Instant
+
+line 4 ... Python String split() Method
+	The split() method splits a string into a list.
+	You can specify the separator, default separator is any whitespace.
+feature_num, cj = line.strip().split('\t')
+
+line 7 ... Python List sort() Method
+	The sort() method sorts the list ascending by default.
+	You can also make a function to decide the sorting criteria(s).
+	reverse : Optional. reverse=True will sort the list descending. Default is reverse=False.
+	key : Optional. A function to specify the sorting criteria(s).
+	   ... Python Lambda
+	A lambda function is a small anonymous function.
+	A lambda function can take any number of arguments, but can only have one expression.
+	Syntax : lambda arguments : expression
+correlation_coefficients.sort(key=lambda x: abs(x[1]), reverse=True)
+
+##################################################################################################################################################################################
+Folder 5 ### create_csv_correlated.py
+"create_csv_correlated.py" uses "top_correlated_features.txt" & "sample_features.json" & "labeled_based_on_score.csv" to create "f'{i+1}to{i+chunk_size}_correlated.csv'"
+	for example: "1to237_correlated.csv" , "238to474_correlated.csv" , ... , "23464to23700_correlated.csv"
+Running Time : 16 minutes 
+
+line 34 ... pandas.DataFrame(data=None, index=None, columns=None, dtype=None, copy=None)
+	Two-dimensional, size-mutable, potentially heterogeneous tabular data.
+	data : ndarray (structured or homogeneous), Iterable, dict, or DataFrame
+	columns : Index or array-like : Column labels to use for resulting frame when data does not have them, defaulting to RangeIndex(0, 1, 2, …, n).
+df_csv = pd.DataFrame(rows, columns=['sample'] + [f'feature{feat}' for feat, _ in top_49042_correlated_features])
+
+line 35 ... pandas.merge(left, right, how='inner', on=None, ... )
+	Merge DataFrame or named Series objects with a database-style join.
+	left : DataFrame or named Series.
+	right : DataFrame or named Series : Object to merge with.
+	on : label or list : Column or index level names to join on. These must be found in both DataFrames.
+df_merged = pd.merge(df_csv, df_labeled_based_on_score[['sample', 'label']], on='sample')
+
+line 37 ... pandas.DataFrame.to_csv(path_or_buf=None, index=True, ... )
+	Write object to a comma-separated values (csv) file.
+	index : bool, default True : Write row names (index).
+df_merged.to_csv(f'{i+1}to{i+chunk_size}_correlated.csv', index=False)
+
+##################################################################################################################################################################################
+Folder 5 (Folder: top49042 correlated files) ### combine.py
+"combine.py" uses "f'{i+1}to{i+chunk_size}_correlated.csv'" to create "combined_data.csv"
+Running Time : 11 seconds
+
+line 3 ... Python os.getcwd() Method
+	The os.getcwd() method returns the current working directory.
+	This method returns the path from the system's root directory.
+directory = os.getcwd()
+
+line 9 ... Python os.listdir() Method
+	The os.listdir() method returns a list of the names of the entries in a directory.
+	The list is in arbitrary order.
+	Syntax : os.listdir(path)
+for filename in os.listdir(directory):
+
+##################################################################################################################################################################################
+Folder 5.2 ### create_apt_dataset.py
+"create_apt_dataset.py" uses "samples_with_label_3.txt" & "combined_data.csv" to create "filtered_combined_data.csv"
+Running Time : 40 seconds
+
+##################################################################################################################################################################################
+Folder 6 ### saving_splitted.py
+"saving_splitted.py" uses "top49042_correlated.csv" ("combined_data.csv" from Folder 5 (Folder: top49042 correlated files)) to create "train_data.csv" & "test_data.csv"
+Running Time : 15 minutes
+	7 minutes for reading the csv file
+	30 seconds for train_test_split
+	7 minutes for saving the dataframes to csv files
+
+line 4 & 5 ... pandas.DataFrame.iloc()
+	Purely integer-location based indexing for selection by position.
+x = data.iloc[:, 1:49043].values
+y = data.iloc[:, 49043].values
+
+line 8 ... sklearn.model_selection.train_test_split(*arrays, test_size=None, train_size=None, random_state=None)
+	Split arrays or matrices into random train and test subsets.
+	*arrays : sequence of indexables with same length / shape[0]
+	random_state : int, RandomState instance or None, default=None
+		Controls the shuffling applied to the data before applying the split. Pass an int for reproducible output across multiple function calls.
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.25, random_state = 0)
+
+##################################################################################################################################################################################
+Folder 6.2 ### saving_splitted.py
+"saving_splitted.py" uses "filtered_combined_data.csv" to create "train_data.csv" & "test_data.csv"
+Running Time : 5 minutes
+	2 minutes for reading the csv file
+	6 seconds for train_test_split
+	3 minutes for saving the dataframes to csv files
+
+##################################################################################################################################################################################
+Folder 7 ### pca_saving_splitted.py
+"pca_saving_splitted.py" uses "train_data.csv" & "test_data.csv" to create "f'pca{i}_train_data.csv'" & "f'pca{i}_test_data.csv'" from 1 to 500
+	for example: "pca300_train_data.csv" & "pca300_test_data.csv"
+Running Time : 9 hours
+	7 minutes for reading the csv files
+	almost 9 hours for creating the pca files
+	
+
+line 7 ... pandas.DataFrame.drop(labels=None, axis=0, index=None, columns=None)
+	Drop specified labels from rows or columns.
+	Remove rows or columns by specifying label names and corresponding axis, or by directly specifying index or column names.
+	labels : single label or list-like : Index or column labels to drop.
+	axis : {0 or 'index', 1 or 'columns'}, default 0 : Whether to drop labels from the index (0 or 'index') or columns (1 or 'columns').
+	index : single label or list-like : Alternative to specifying axis ((labels, axis=0) is equivalent to (index=labels)).
+	columns : single label or list-like : Alternative to specifying axis ((labels, axis=1) is equivalent to (columns=labels)).
+	Returns DataFrame or None DataFrame with the specified index or column labels removed or None if inplace=True.
+x_train = train_df.drop(columns=['label']).values
+
+line 7 ... pandas.DataFrame.values
+	Return a Numpy representation of the DataFrame.
+x_train = train_df.drop(columns=['label']).values
+
+##################################################################################################################################################################################
+Folder 7.2 ### pca_saving_splitted.py
+"pca_saving_splitted.py" uses "train_data.csv" & "test_data.csv" to create "f'pca{i}_train_data.csv'" & "f'pca{i}_test_data.csv'" from 1 to 500
+	for example: "pca300_train_data.csv" & "pca300_test_data.csv"
+Running Time : 4 hours
+	2 minutes for reading the csv files
+	almost 4 hours for creating the pca files
+
+##################################################################################################################################################################################
+Folder 8 ### elbow_method.py
+"elbow_method.py" uses "train_data.csv" to show the (elbow) plot
+Running Time : more than a week
+
+line 13 ... pca.explained_variance_ratio_
+	Returns a vector of the variance explained by each dimension. 
+	Thus pca.explained_variance_ratio_[i] gives the variance explained solely by the i+1st dimension.
+	Example : print my_model.explained_variance_ratio_ : [ 0.32047581  0.27502207  0.20629036  0.13118776  0.067024  ]
+plt.plot(np.cumsum(pca.explained_variance_ratio_[:40]))
+
+line 13 ... numpy.cumsum()
+	Return the cumulative sum of the elements along a given axis.
+	Example : cumulative sum from above example : [ 0.32047581  0.59549787  0.80178824  0.932976    1.        ]
+	If we picked k=4 we would retain 93.3% of the variance.
+plt.plot(np.cumsum(pca.explained_variance_ratio_[:40]))
+
+##################################################################################################################################################################################
+Folder 8 ### XGBoost_pca_top49042_cc.py
+"XGBoost_pca_top49042_cc.py" uses "f'pca{i}_train_data.csv'" & "f'pca{i}_test_data.csv'" to create all results for xgboost classifier
+	Results for PCA with 1 components , ... , PCA with 400 components.
+	They are used to create the "XGBoost mean F1 scores.txt" file.
+	Which is going to be used by "pca_plot.py" to plot the (Mean f1 score vs Number of components).
+Running Time : 8 hours
+
+line 51 ... sklearn.model_selection.cross_val_score(estimator, ... )
+	estimator : estimator object implementing 'fit'
+accuracy_scores = cross_val_score(estimator=classifier, X=x_train, y=y_train, cv=10, scoring='accuracy')
+
+##################################################################################################################################################################################
+Folder 8 ### pca_plot.py
+"pca_plot.py" uses "XGBoost mean F1 scores.txt" to show the (Mean F1 Score vs Number of Components) plot
+Running Time : Instant
+
+line 15 ... matplotlib.pyplot.figure(figsize=None , ... )
+	figsize(float, float) : (default: [6.4, 4.8])
+	Width, height in inches.
+plt.figure(figsize=(12, 6))
+
+line 21 ... matplotlib.pyplot.xticks(ticks=None, labels=None, ... )
+	Get or set the current tick locations and labels of the x-axis.
+	ticks : array-like, optional : The list of xtick locations. Passing an empty list removes all xticks.
+plt.xticks(range(min(sorted_components)-1, max(sorted_components)+2, 50))
+
+##################################################################################################################################################################################
+Folder 8 ### XGBoost_timings.py
+"XGBoost_timings.py" uses "f'pca{i}_train_data.csv'" & "f'pca{i}_test_data.csv'" to create "XGBoost timings.txt"
+	Which is going to be used by "XGBoost_timings_plot.py" to show the (Time Taken vs Number of Components) plot.
+Running Time : 25 minutes
+
+##################################################################################################################################################################################
+Folder 8 ### XGBoost_timings_plot.py
+"XGBoost_timings_plot.py" uses "XGBoost timings.txt" to show the (Time Taken vs Number of Components) plot.
+Running Time : Instant
+
+##################################################################################################################################################################################
+Folder 8.2 ### ANN.py
+"ANN.py" uses "" to .
+Running Time : 
+
+Once the model is created, you can config the model with losses and metrics with model.compile(),
+train the model with model.fit(), or use the model to do prediction with model.predict().
+
+fit() ... 
+	verbose : "auto", 0, 1, or 2. Verbosity mode. 0 = silent, 1 = progress bar, 2 = one line per epoch. "auto" becomes 1 for most cases. Defaults to "auto".
+predict() ...
+	Generates output predictions for the input samples.
+
+##################################################################################################################################################################################
+Folder 8.2 ### ANN_plot.py
+Running Time : Instant
+
+##################################################################################################################################################################################
+Folder 8.2 Timing
+
+ANN ... 35 seconds
+DT ... 75 seconds
+KNN ... 3 seconds
+LR ... 3 seconds
+RF ... 33 seconds
+SVM ... 75 seconds
+XGBoost ... 68 seconds
