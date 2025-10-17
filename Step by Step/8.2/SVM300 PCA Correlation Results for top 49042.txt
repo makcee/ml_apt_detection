@@ -1,0 +1,16 @@
+top49042_correlated with PCA
+The model used is SVM
+#####################################################################################
+PCA with 300 components
+The accuracy is 0.9571230982019364
+The precision is 0.9361979166666666
+The recall is 0.9423328964613368
+The F1-Score is 0.9392553886348791
+Cross Validation Scores
+Accuracy: Mean = 95.43 % , Std = 0.59 %
+Precision: Mean = 93.33 % , Std = 1.13 %
+Recall: Mean = 93.36 % , Std = 1.37 %
+F1-Score: Mean = 93.34 % , Std = 0.87% 
+#####################################################################################
+Mean F1 Scores of Cross-Validation in Descending Order:
+PCA with 300 components: Mean F1 Score = 93.34%

@@ -1,0 +1,16 @@
+top49042_correlated with PCA
+The model used is K-Nearest Neighbors (K-NN)
+#####################################################################################
+PCA with 300 components
+The accuracy is 0.8787459658828953
+The precision is 0.9340277777777778
+The recall is 0.7051114023591087
+The F1-Score is 0.8035847647498133
+Cross Validation Scores
+Accuracy: Mean = 89.69 % , Std = 1.50 %
+Precision: Mean = 95.76 % , Std = 1.21 %
+Recall: Mean = 73.13 % , Std = 4.04 %
+F1-Score: Mean = 82.87 % , Std = 2.83% 
+#####################################################################################
+Mean F1 Scores of Cross-Validation in Descending Order:
+PCA with 300 components: Mean F1 Score = 82.87%

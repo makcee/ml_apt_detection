@@ -1,0 +1,16 @@
+top49042_correlated with PCA
+The model used is Decision Tree Classifier
+#####################################################################################
+PCA with 300 components
+The accuracy is 0.892577224527432
+The precision is 0.8468586387434555
+The recall is 0.8479685452162516
+The F1-Score is 0.8474132285527177
+Cross Validation Scores
+Accuracy: Mean = 87.96 % , Std = 1.15 %
+Precision: Mean = 82.58 % , Std = 2.34 %
+Recall: Mean = 82.32 % , Std = 2.41 %
+F1-Score: Mean = 82.41 % , Std = 1.64% 
+#####################################################################################
+Mean F1 Scores of Cross-Validation in Descending Order:
+PCA with 300 components: Mean F1 Score = 82.41%

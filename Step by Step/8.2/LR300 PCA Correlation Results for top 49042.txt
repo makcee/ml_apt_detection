@@ -1,0 +1,16 @@
+top49042_correlated with PCA
+The model used is Logistic Regression
+#####################################################################################
+PCA with 300 components
+The accuracy is 0.9626556016597511
+The precision is 0.9546666666666667
+The recall is 0.9384010484927916
+The F1-Score is 0.9464639788499669
+Cross Validation Scores
+Accuracy: Mean = 96.13 % , Std = 0.85 %
+Precision: Mean = 95.34 % , Std = 1.41 %
+Recall: Mean = 93.27 % , Std = 1.72 %
+F1-Score: Mean = 94.28 % , Std = 1.26% 
+#####################################################################################
+Mean F1 Scores of Cross-Validation in Descending Order:
+PCA with 300 components: Mean F1 Score = 94.28%

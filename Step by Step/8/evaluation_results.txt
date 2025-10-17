@@ -1,0 +1,11200 @@
+Fold 1
+F1-Score: 93.71
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 92.66
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 92.12
+1 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 93.07
+Fold 3
+F1-Score: 92.41
+Fold 4
+F1-Score: 93.38
+Fold 5
+F1-Score: 92.91
+1 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 92.59
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 93.19
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 93.47
+1 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.15
+Fold 2
+F1-Score: 93.44
+Fold 3
+F1-Score: 93.32
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 93.00
+1 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 93.57
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 92.96
+1 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.20
+----------------------------------------
+Fold 1
+F1-Score: 93.89
+Fold 2
+F1-Score: 93.22
+Fold 3
+F1-Score: 93.15
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 92.92
+1 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.16
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.94
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 93.79
+Fold 5
+F1-Score: 93.13
+1 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.20
+----------------------------------------
+Fold 1
+F1-Score: 92.31
+Fold 2
+F1-Score: 93.75
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 93.44
+Fold 5
+F1-Score: 93.69
+1 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 93.31
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 93.16
+Fold 3
+F1-Score: 93.60
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 93.55
+1 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 93.33
+----------------------------------------
+Fold 1
+F1-Score: 92.61
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 93.44
+Fold 4
+F1-Score: 94.11
+Fold 5
+F1-Score: 93.15
+1 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 93.27
+----------------------------------------
+Fold 1
+F1-Score: 93.31
+Fold 2
+F1-Score: 93.40
+Fold 3
+F1-Score: 93.22
+Fold 4
+F1-Score: 93.75
+Fold 5
+F1-Score: 92.98
+1 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 93.33
+----------------------------------------
+Fold 1
+F1-Score: 93.30
+Fold 2
+F1-Score: 93.32
+Fold 3
+F1-Score: 93.42
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 93.40
+1 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 93.36
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.75
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 93.91
+Fold 5
+F1-Score: 93.37
+1 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 93.37
+----------------------------------------
+Fold 1
+F1-Score: 93.41
+Fold 2
+F1-Score: 92.65
+Fold 3
+F1-Score: 93.53
+Fold 4
+F1-Score: 93.27
+Fold 5
+F1-Score: 92.91
+1 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 93.15
+----------------------------------------
+Fold 1
+F1-Score: 93.41
+Fold 2
+F1-Score: 93.00
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 93.18
+Fold 5
+F1-Score: 93.48
+1 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 93.22
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 93.66
+Fold 4
+F1-Score: 93.39
+Fold 5
+F1-Score: 92.28
+1 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 93.14
+----------------------------------------
+Fold 1
+F1-Score: 93.51
+Fold 2
+F1-Score: 93.38
+Fold 3
+F1-Score: 93.32
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 93.25
+1 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 93.32
+----------------------------------------
+Fold 1
+F1-Score: 93.54
+Fold 2
+F1-Score: 93.91
+Fold 3
+F1-Score: 92.93
+Fold 4
+F1-Score: 93.11
+Fold 5
+F1-Score: 93.43
+1 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 93.39
+----------------------------------------
+Fold 1
+F1-Score: 93.51
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 93.75
+Fold 4
+F1-Score: 93.09
+Fold 5
+F1-Score: 92.98
+1 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 93.22
+----------------------------------------
+Fold 1
+F1-Score: 93.19
+Fold 2
+F1-Score: 93.23
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 93.62
+Fold 5
+F1-Score: 93.33
+1 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.34
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 93.16
+Fold 3
+F1-Score: 93.37
+Fold 4
+F1-Score: 93.54
+Fold 5
+F1-Score: 92.91
+1 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 93.25
+----------------------------------------
+Fold 1
+F1-Score: 93.36
+Fold 2
+F1-Score: 93.28
+Fold 3
+F1-Score: 93.82
+Fold 4
+F1-Score: 93.28
+Fold 5
+F1-Score: 93.79
+1 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.51
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 93.25
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 93.69
+Fold 5
+F1-Score: 93.07
+1 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.22
+----------------------------------------
+Fold 1
+F1-Score: 92.71
+Fold 2
+F1-Score: 93.62
+Fold 3
+F1-Score: 94.06
+Fold 4
+F1-Score: 93.74
+Fold 5
+F1-Score: 92.96
+1 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.42
+----------------------------------------
+Fold 1
+F1-Score: 93.80
+Fold 2
+F1-Score: 93.72
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 92.69
+Fold 5
+F1-Score: 93.72
+1 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 93.38
+----------------------------------------
+Fold 1
+F1-Score: 93.33
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 93.47
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 92.63
+1 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.16
+----------------------------------------
+Fold 1
+F1-Score: 94.06
+Fold 2
+F1-Score: 93.44
+Fold 3
+F1-Score: 93.48
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 93.68
+1 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 93.52
+----------------------------------------
+Fold 1
+F1-Score: 93.19
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 93.45
+1 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 93.22
+----------------------------------------
+Fold 1
+F1-Score: 92.71
+Fold 2
+F1-Score: 94.08
+Fold 3
+F1-Score: 93.38
+Fold 4
+F1-Score: 93.46
+Fold 5
+F1-Score: 93.09
+1 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 93.34
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 93.38
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 92.90
+1 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 93.21
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 94.01
+Fold 4
+F1-Score: 93.82
+Fold 5
+F1-Score: 93.43
+1 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 93.47
+----------------------------------------
+Fold 1
+F1-Score: 93.53
+Fold 2
+F1-Score: 93.61
+Fold 3
+F1-Score: 93.50
+Fold 4
+F1-Score: 93.03
+Fold 5
+F1-Score: 93.96
+1 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.53
+----------------------------------------
+Fold 1
+F1-Score: 93.38
+Fold 2
+F1-Score: 93.56
+Fold 3
+F1-Score: 93.71
+Fold 4
+F1-Score: 93.73
+Fold 5
+F1-Score: 93.02
+1 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.48
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 93.50
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 93.20
+Fold 5
+F1-Score: 93.73
+1 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.36
+----------------------------------------
+Fold 1
+F1-Score: 93.33
+Fold 2
+F1-Score: 93.08
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 93.41
+Fold 5
+F1-Score: 93.70
+1 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.38
+----------------------------------------
+Fold 1
+F1-Score: 94.16
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 93.60
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 93.83
+1 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.59
+----------------------------------------
+Fold 1
+F1-Score: 93.77
+Fold 2
+F1-Score: 93.55
+Fold 3
+F1-Score: 92.79
+Fold 4
+F1-Score: 93.23
+Fold 5
+F1-Score: 93.44
+1 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.36
+----------------------------------------
+Fold 1
+F1-Score: 93.76
+Fold 2
+F1-Score: 93.50
+Fold 3
+F1-Score: 92.41
+Fold 4
+F1-Score: 93.60
+Fold 5
+F1-Score: 93.47
+1 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.35
+----------------------------------------
+Fold 1
+F1-Score: 93.54
+Fold 2
+F1-Score: 93.85
+Fold 3
+F1-Score: 93.25
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 93.48
+1 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 93.41
+----------------------------------------
+Fold 1
+F1-Score: 93.30
+Fold 2
+F1-Score: 93.70
+Fold 3
+F1-Score: 93.53
+Fold 4
+F1-Score: 93.59
+Fold 5
+F1-Score: 93.31
+1 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.49
+################################################################################
+Fold 1
+F1-Score: 92.60
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.64
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 93.59
+2 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 89.36
+----------------------------------------
+Fold 1
+F1-Score: 92.57
+Fold 2
+F1-Score: 93.28
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 93.19
+2 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 91.20
+----------------------------------------
+Fold 1
+F1-Score: 93.61
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 92.10
+Fold 4
+F1-Score: 93.16
+Fold 5
+F1-Score: 93.41
+2 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 92.60
+Fold 2
+F1-Score: 93.43
+Fold 3
+F1-Score: 93.41
+Fold 4
+F1-Score: 92.48
+Fold 5
+F1-Score: 92.77
+2 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 92.72
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 93.92
+2 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.14
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 93.61
+Fold 3
+F1-Score: 93.19
+Fold 4
+F1-Score: 93.80
+Fold 5
+F1-Score: 92.70
+2 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.26
+----------------------------------------
+Fold 1
+F1-Score: 93.38
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 92.22
+Fold 4
+F1-Score: 93.54
+Fold 5
+F1-Score: 93.54
+2 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.13
+----------------------------------------
+Fold 1
+F1-Score: 93.13
+Fold 2
+F1-Score: 93.26
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 92.94
+2 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 92.48
+Fold 4
+F1-Score: 93.90
+Fold 5
+F1-Score: 92.83
+2 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 92.92
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 93.53
+Fold 4
+F1-Score: 93.03
+Fold 5
+F1-Score: 92.75
+2 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 92.64
+Fold 2
+F1-Score: 92.52
+Fold 3
+F1-Score: 93.32
+Fold 4
+F1-Score: 93.22
+Fold 5
+F1-Score: 93.25
+2 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 92.61
+Fold 2
+F1-Score: 92.67
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 93.35
+2 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 93.48
+2 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 91.94
+Fold 2
+F1-Score: 93.64
+Fold 3
+F1-Score: 92.93
+Fold 4
+F1-Score: 93.16
+Fold 5
+F1-Score: 93.96
+2 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 93.13
+----------------------------------------
+Fold 1
+F1-Score: 92.62
+Fold 2
+F1-Score: 93.32
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 93.09
+Fold 5
+F1-Score: 92.17
+2 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.66
+Fold 2
+F1-Score: 92.65
+Fold 3
+F1-Score: 93.51
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 93.06
+2 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 93.34
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 93.82
+Fold 5
+F1-Score: 93.44
+2 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 93.29
+----------------------------------------
+Fold 1
+F1-Score: 93.07
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 93.97
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 92.56
+2 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 92.59
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 92.87
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 93.37
+2 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 93.59
+Fold 3
+F1-Score: 93.04
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 92.88
+2 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 93.35
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 93.25
+2 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 93.34
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 92.69
+Fold 4
+F1-Score: 93.40
+Fold 5
+F1-Score: 93.21
+2 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.14
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 92.54
+Fold 3
+F1-Score: 93.73
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 92.98
+2 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.66
+Fold 2
+F1-Score: 93.47
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 92.59
+Fold 5
+F1-Score: 93.35
+2 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 92.72
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 93.55
+Fold 4
+F1-Score: 94.13
+Fold 5
+F1-Score: 92.70
+2 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 93.20
+----------------------------------------
+Fold 1
+F1-Score: 92.78
+Fold 2
+F1-Score: 93.17
+Fold 3
+F1-Score: 93.14
+Fold 4
+F1-Score: 93.22
+Fold 5
+F1-Score: 93.16
+2 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 92.76
+Fold 3
+F1-Score: 93.87
+Fold 4
+F1-Score: 92.22
+Fold 5
+F1-Score: 93.16
+2 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 92.55
+Fold 2
+F1-Score: 93.37
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 93.19
+2 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 93.23
+Fold 3
+F1-Score: 93.52
+Fold 4
+F1-Score: 93.43
+Fold 5
+F1-Score: 92.74
+2 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 93.27
+----------------------------------------
+Fold 1
+F1-Score: 93.11
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 92.74
+Fold 4
+F1-Score: 92.88
+Fold 5
+F1-Score: 93.61
+2 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 93.24
+Fold 2
+F1-Score: 92.82
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.95
+Fold 5
+F1-Score: 93.12
+2 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.59
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 92.99
+Fold 4
+F1-Score: 94.14
+Fold 5
+F1-Score: 93.29
+2 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.15
+----------------------------------------
+Fold 1
+F1-Score: 92.75
+Fold 2
+F1-Score: 93.16
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 93.19
+2 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 93.23
+Fold 2
+F1-Score: 92.65
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 93.09
+Fold 5
+F1-Score: 93.65
+2 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 92.58
+Fold 2
+F1-Score: 93.34
+Fold 3
+F1-Score: 93.52
+Fold 4
+F1-Score: 93.56
+Fold 5
+F1-Score: 92.90
+2 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.18
+----------------------------------------
+Fold 1
+F1-Score: 93.48
+Fold 2
+F1-Score: 92.40
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 94.00
+2 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.15
+----------------------------------------
+Fold 1
+F1-Score: 93.26
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 92.90
+Fold 5
+F1-Score: 93.21
+2 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 93.22
+Fold 2
+F1-Score: 92.51
+Fold 3
+F1-Score: 93.19
+Fold 4
+F1-Score: 92.47
+Fold 5
+F1-Score: 93.46
+2 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 93.56
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 93.41
+Fold 4
+F1-Score: 93.16
+Fold 5
+F1-Score: 92.84
+2 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 93.25
+----------------------------------------
+Fold 1
+F1-Score: 92.63
+Fold 2
+F1-Score: 93.51
+Fold 3
+F1-Score: 93.26
+Fold 4
+F1-Score: 93.27
+Fold 5
+F1-Score: 93.46
+2 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.23
+################################################################################
+Fold 1
+F1-Score: 92.72
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+3 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 85.72
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 93.28
+3 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 87.58
+----------------------------------------
+Fold 1
+F1-Score: 92.78
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 93.36
+Fold 4
+F1-Score: 93.36
+Fold 5
+F1-Score: 92.62
+3 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.10
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 93.55
+Fold 4
+F1-Score: 93.31
+Fold 5
+F1-Score: 93.22
+3 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 93.24
+----------------------------------------
+Fold 1
+F1-Score: 92.95
+Fold 2
+F1-Score: 93.67
+Fold 3
+F1-Score: 92.49
+Fold 4
+F1-Score: 92.70
+Fold 5
+F1-Score: 93.61
+3 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.28
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 93.24
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 93.12
+3 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.20
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 92.67
+Fold 3
+F1-Score: 93.16
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 93.11
+3 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 92.68
+Fold 3
+F1-Score: 93.43
+Fold 4
+F1-Score: 92.78
+Fold 5
+F1-Score: 93.03
+3 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.58
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 92.78
+Fold 4
+F1-Score: 92.64
+Fold 5
+F1-Score: 93.39
+3 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 93.74
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 92.54
+3 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 92.25
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 93.53
+3 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.71
+Fold 2
+F1-Score: 93.16
+Fold 3
+F1-Score: 92.55
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 92.33
+3 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.73
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 93.09
+Fold 4
+F1-Score: 92.11
+Fold 5
+F1-Score: 92.63
+3 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.73
+----------------------------------------
+Fold 1
+F1-Score: 92.68
+Fold 2
+F1-Score: 92.32
+Fold 3
+F1-Score: 93.82
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 92.70
+3 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 93.22
+Fold 2
+F1-Score: 93.15
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 92.56
+3 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.31
+Fold 2
+F1-Score: 92.80
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 93.71
+3 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 93.37
+Fold 4
+F1-Score: 93.47
+Fold 5
+F1-Score: 92.90
+3 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 92.78
+Fold 3
+F1-Score: 92.46
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 93.19
+3 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.83
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 92.71
+Fold 5
+F1-Score: 93.15
+3 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 93.18
+Fold 2
+F1-Score: 92.61
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 93.50
+Fold 5
+F1-Score: 93.00
+3 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.59
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 92.35
+Fold 5
+F1-Score: 93.30
+3 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 93.08
+Fold 2
+F1-Score: 93.00
+Fold 3
+F1-Score: 93.48
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 93.14
+3 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 92.62
+Fold 2
+F1-Score: 92.81
+Fold 3
+F1-Score: 93.26
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 92.77
+3 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 93.41
+Fold 2
+F1-Score: 92.85
+Fold 3
+F1-Score: 93.66
+Fold 4
+F1-Score: 93.11
+Fold 5
+F1-Score: 92.40
+3 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 92.55
+Fold 2
+F1-Score: 92.42
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 93.71
+Fold 5
+F1-Score: 93.16
+3 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.91
+Fold 2
+F1-Score: 93.20
+Fold 3
+F1-Score: 93.20
+Fold 4
+F1-Score: 93.30
+Fold 5
+F1-Score: 92.80
+3 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.03
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 93.04
+Fold 5
+F1-Score: 92.70
+3 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.70
+Fold 2
+F1-Score: 93.17
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 92.55
+3 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 93.18
+Fold 2
+F1-Score: 93.49
+Fold 3
+F1-Score: 93.21
+Fold 4
+F1-Score: 92.85
+Fold 5
+F1-Score: 92.70
+3 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 92.32
+Fold 4
+F1-Score: 93.13
+Fold 5
+F1-Score: 92.52
+3 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.65
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 92.84
+Fold 4
+F1-Score: 93.42
+Fold 5
+F1-Score: 92.94
+3 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 92.57
+Fold 2
+F1-Score: 93.41
+Fold 3
+F1-Score: 93.24
+Fold 4
+F1-Score: 93.05
+Fold 5
+F1-Score: 92.80
+3 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 93.35
+Fold 3
+F1-Score: 92.68
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 93.30
+3 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.17
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 93.45
+Fold 3
+F1-Score: 92.05
+Fold 4
+F1-Score: 93.23
+Fold 5
+F1-Score: 92.73
+3 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 93.66
+Fold 2
+F1-Score: 92.70
+Fold 3
+F1-Score: 93.42
+Fold 4
+F1-Score: 92.65
+Fold 5
+F1-Score: 93.22
+3 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.13
+----------------------------------------
+Fold 1
+F1-Score: 92.57
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 93.09
+Fold 4
+F1-Score: 92.69
+Fold 5
+F1-Score: 93.33
+3 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 93.12
+Fold 3
+F1-Score: 93.11
+Fold 4
+F1-Score: 93.50
+Fold 5
+F1-Score: 92.51
+3 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 92.98
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 93.18
+Fold 4
+F1-Score: 92.36
+Fold 5
+F1-Score: 92.96
+3 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.92
+Fold 2
+F1-Score: 93.60
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 92.91
+Fold 5
+F1-Score: 92.55
+3 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 93.10
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 93.14
+Fold 4
+F1-Score: 92.39
+Fold 5
+F1-Score: 93.32
+3 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.03
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+4 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 85.76
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.77
+Fold 4
+F1-Score: 93.69
+Fold 5
+F1-Score: 83.97
+4 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 87.68
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 93.19
+Fold 3
+F1-Score: 93.46
+Fold 4
+F1-Score: 92.87
+Fold 5
+F1-Score: 93.00
+4 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 92.47
+Fold 2
+F1-Score: 93.09
+Fold 3
+F1-Score: 92.95
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 93.24
+4 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 93.03
+Fold 2
+F1-Score: 92.74
+Fold 3
+F1-Score: 93.11
+Fold 4
+F1-Score: 92.47
+Fold 5
+F1-Score: 92.68
+4 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 93.19
+Fold 2
+F1-Score: 92.94
+Fold 3
+F1-Score: 93.10
+Fold 4
+F1-Score: 92.17
+Fold 5
+F1-Score: 93.03
+4 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 92.89
+Fold 5
+F1-Score: 93.12
+4 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.12
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 91.68
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 93.37
+4 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.79
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 92.47
+Fold 4
+F1-Score: 93.56
+Fold 5
+F1-Score: 93.03
+4 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 93.57
+Fold 3
+F1-Score: 92.93
+Fold 4
+F1-Score: 92.96
+Fold 5
+F1-Score: 92.44
+4 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 93.08
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.89
+Fold 5
+F1-Score: 93.35
+4 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 92.71
+Fold 3
+F1-Score: 92.50
+Fold 4
+F1-Score: 92.68
+Fold 5
+F1-Score: 93.05
+4 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 92.31
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 92.95
+4 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 93.10
+Fold 2
+F1-Score: 93.13
+Fold 3
+F1-Score: 92.89
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 93.13
+4 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 93.48
+Fold 3
+F1-Score: 93.18
+Fold 4
+F1-Score: 92.21
+Fold 5
+F1-Score: 92.34
+4 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 93.21
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 92.28
+4 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 92.37
+Fold 3
+F1-Score: 92.12
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 93.06
+4 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 94.00
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.53
+Fold 5
+F1-Score: 92.82
+4 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 92.19
+Fold 2
+F1-Score: 92.86
+Fold 3
+F1-Score: 93.63
+Fold 4
+F1-Score: 92.51
+Fold 5
+F1-Score: 93.12
+4 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.06
+Fold 3
+F1-Score: 92.28
+Fold 4
+F1-Score: 93.58
+Fold 5
+F1-Score: 92.40
+4 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.94
+Fold 2
+F1-Score: 92.19
+Fold 3
+F1-Score: 92.42
+Fold 4
+F1-Score: 93.20
+Fold 5
+F1-Score: 92.40
+4 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.63
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.76
+Fold 3
+F1-Score: 92.26
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 93.69
+4 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.69
+Fold 3
+F1-Score: 92.48
+Fold 4
+F1-Score: 92.22
+Fold 5
+F1-Score: 93.08
+4 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.41
+Fold 2
+F1-Score: 92.79
+Fold 3
+F1-Score: 92.46
+Fold 4
+F1-Score: 92.51
+Fold 5
+F1-Score: 92.94
+4 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.62
+----------------------------------------
+Fold 1
+F1-Score: 92.66
+Fold 2
+F1-Score: 92.78
+Fold 3
+F1-Score: 93.28
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 92.73
+4 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 92.44
+Fold 2
+F1-Score: 93.20
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 92.97
+4 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.19
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 92.26
+Fold 5
+F1-Score: 93.04
+4 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.65
+----------------------------------------
+Fold 1
+F1-Score: 91.95
+Fold 2
+F1-Score: 93.15
+Fold 3
+F1-Score: 92.62
+Fold 4
+F1-Score: 93.18
+Fold 5
+F1-Score: 92.91
+4 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.90
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 93.30
+Fold 5
+F1-Score: 92.86
+4 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 92.64
+Fold 2
+F1-Score: 93.34
+Fold 3
+F1-Score: 92.65
+Fold 4
+F1-Score: 92.51
+Fold 5
+F1-Score: 92.82
+4 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.79
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.76
+Fold 3
+F1-Score: 92.41
+Fold 4
+F1-Score: 92.80
+Fold 5
+F1-Score: 93.10
+4 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 93.22
+Fold 2
+F1-Score: 93.78
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 92.88
+Fold 5
+F1-Score: 92.69
+4 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.12
+Fold 3
+F1-Score: 92.12
+Fold 4
+F1-Score: 92.98
+Fold 5
+F1-Score: 91.98
+4 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.60
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 92.52
+Fold 5
+F1-Score: 93.21
+4 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.56
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 93.15
+Fold 4
+F1-Score: 93.04
+Fold 5
+F1-Score: 92.65
+4 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.40
+Fold 2
+F1-Score: 93.15
+Fold 3
+F1-Score: 93.43
+Fold 4
+F1-Score: 92.97
+Fold 5
+F1-Score: 93.74
+4 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.14
+----------------------------------------
+Fold 1
+F1-Score: 92.98
+Fold 2
+F1-Score: 93.13
+Fold 3
+F1-Score: 93.18
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 92.82
+4 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.39
+Fold 2
+F1-Score: 93.27
+Fold 3
+F1-Score: 92.77
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 93.22
+4 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.13
+----------------------------------------
+Fold 1
+F1-Score: 92.34
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 92.65
+Fold 4
+F1-Score: 92.24
+Fold 5
+F1-Score: 93.28
+4 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 92.58
+Fold 2
+F1-Score: 93.38
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 93.87
+4 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.12
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+5 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 92.75
+5 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 91.17
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.55
+Fold 3
+F1-Score: 93.47
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 93.12
+5 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 89.42
+----------------------------------------
+Fold 1
+F1-Score: 92.83
+Fold 2
+F1-Score: 93.22
+Fold 3
+F1-Score: 92.63
+Fold 4
+F1-Score: 93.22
+Fold 5
+F1-Score: 92.72
+5 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.29
+Fold 2
+F1-Score: 93.11
+Fold 3
+F1-Score: 92.83
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 92.70
+5 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.00
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 93.50
+Fold 5
+F1-Score: 93.62
+5 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 92.94
+Fold 2
+F1-Score: 93.22
+Fold 3
+F1-Score: 93.01
+Fold 4
+F1-Score: 93.37
+Fold 5
+F1-Score: 92.74
+5 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 92.92
+Fold 2
+F1-Score: 93.33
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 93.19
+Fold 5
+F1-Score: 92.86
+5 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.06
+Fold 3
+F1-Score: 92.37
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 92.85
+5 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.73
+Fold 2
+F1-Score: 93.09
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 92.47
+5 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.44
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 92.38
+Fold 5
+F1-Score: 93.16
+5 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 93.29
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 92.60
+Fold 4
+F1-Score: 92.91
+Fold 5
+F1-Score: 93.03
+5 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 93.09
+Fold 2
+F1-Score: 92.30
+Fold 3
+F1-Score: 93.01
+Fold 4
+F1-Score: 92.16
+Fold 5
+F1-Score: 93.33
+5 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 92.47
+Fold 2
+F1-Score: 92.61
+Fold 3
+F1-Score: 91.98
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 93.20
+5 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 92.31
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 92.40
+Fold 4
+F1-Score: 92.30
+Fold 5
+F1-Score: 93.39
+5 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.65
+----------------------------------------
+Fold 1
+F1-Score: 93.48
+Fold 2
+F1-Score: 93.23
+Fold 3
+F1-Score: 92.38
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 92.70
+5 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.71
+Fold 2
+F1-Score: 92.65
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 92.25
+Fold 5
+F1-Score: 92.93
+5 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.67
+----------------------------------------
+Fold 1
+F1-Score: 93.15
+Fold 2
+F1-Score: 92.46
+Fold 3
+F1-Score: 92.69
+Fold 4
+F1-Score: 93.55
+Fold 5
+F1-Score: 93.39
+5 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 93.09
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 92.08
+Fold 4
+F1-Score: 92.68
+Fold 5
+F1-Score: 92.92
+5 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 93.53
+Fold 4
+F1-Score: 93.08
+Fold 5
+F1-Score: 92.58
+5 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 92.60
+Fold 4
+F1-Score: 92.41
+Fold 5
+F1-Score: 92.76
+5 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.70
+----------------------------------------
+Fold 1
+F1-Score: 93.59
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 93.22
+Fold 4
+F1-Score: 92.94
+Fold 5
+F1-Score: 92.97
+5 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 93.08
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 93.21
+Fold 4
+F1-Score: 92.97
+Fold 5
+F1-Score: 92.99
+5 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.78
+Fold 2
+F1-Score: 92.66
+Fold 3
+F1-Score: 92.57
+Fold 4
+F1-Score: 93.46
+Fold 5
+F1-Score: 93.29
+5 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.58
+Fold 2
+F1-Score: 92.47
+Fold 3
+F1-Score: 92.50
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 93.53
+5 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.73
+----------------------------------------
+Fold 1
+F1-Score: 92.49
+Fold 2
+F1-Score: 92.78
+Fold 3
+F1-Score: 91.97
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 92.68
+5 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.49
+----------------------------------------
+Fold 1
+F1-Score: 92.37
+Fold 2
+F1-Score: 92.27
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 92.45
+5 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.62
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 92.74
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 93.26
+5 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.15
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 92.34
+Fold 5
+F1-Score: 92.64
+5 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 92.64
+Fold 4
+F1-Score: 93.09
+Fold 5
+F1-Score: 92.90
+5 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 93.44
+Fold 3
+F1-Score: 92.68
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 92.19
+5 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.79
+----------------------------------------
+Fold 1
+F1-Score: 92.88
+Fold 2
+F1-Score: 93.33
+Fold 3
+F1-Score: 92.66
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 92.83
+5 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.91
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 93.38
+Fold 5
+F1-Score: 92.86
+5 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 93.00
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 93.80
+5 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.24
+----------------------------------------
+Fold 1
+F1-Score: 91.99
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 93.39
+5 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 93.13
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 93.36
+5 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 93.33
+Fold 2
+F1-Score: 93.46
+Fold 3
+F1-Score: 93.18
+Fold 4
+F1-Score: 92.70
+Fold 5
+F1-Score: 92.63
+5 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 92.43
+Fold 2
+F1-Score: 93.15
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 92.59
+5 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.63
+Fold 2
+F1-Score: 92.69
+Fold 3
+F1-Score: 92.59
+Fold 4
+F1-Score: 93.16
+Fold 5
+F1-Score: 92.54
+5 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.72
+----------------------------------------
+Fold 1
+F1-Score: 92.68
+Fold 2
+F1-Score: 93.57
+Fold 3
+F1-Score: 93.59
+Fold 4
+F1-Score: 92.19
+Fold 5
+F1-Score: 93.02
+5 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.01
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+6 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 92.58
+Fold 2
+F1-Score: 93.06
+Fold 3
+F1-Score: 92.42
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+6 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 89.20
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 92.48
+Fold 5
+F1-Score: 93.13
+6 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 91.15
+----------------------------------------
+Fold 1
+F1-Score: 93.19
+Fold 2
+F1-Score: 94.19
+Fold 3
+F1-Score: 92.91
+Fold 4
+F1-Score: 93.04
+Fold 5
+F1-Score: 92.26
+6 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 93.12
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 93.94
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 92.62
+6 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 93.71
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 92.63
+Fold 4
+F1-Score: 92.57
+Fold 5
+F1-Score: 92.36
+6 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 93.32
+Fold 2
+F1-Score: 93.15
+Fold 3
+F1-Score: 92.69
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 93.12
+6 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.62
+Fold 2
+F1-Score: 92.55
+Fold 3
+F1-Score: 92.51
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 92.85
+6 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.82
+Fold 2
+F1-Score: 92.51
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 92.88
+6 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 93.39
+Fold 2
+F1-Score: 92.31
+Fold 3
+F1-Score: 93.68
+Fold 4
+F1-Score: 92.78
+Fold 5
+F1-Score: 93.17
+6 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 92.68
+Fold 2
+F1-Score: 92.70
+Fold 3
+F1-Score: 93.62
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 92.17
+6 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 92.38
+Fold 2
+F1-Score: 92.74
+Fold 3
+F1-Score: 92.77
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 92.31
+6 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.58
+----------------------------------------
+Fold 1
+F1-Score: 93.11
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 92.97
+Fold 5
+F1-Score: 93.57
+6 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 92.25
+Fold 3
+F1-Score: 92.22
+Fold 4
+F1-Score: 92.96
+Fold 5
+F1-Score: 92.93
+6 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.70
+----------------------------------------
+Fold 1
+F1-Score: 93.60
+Fold 2
+F1-Score: 92.34
+Fold 3
+F1-Score: 93.04
+Fold 4
+F1-Score: 92.74
+Fold 5
+F1-Score: 92.87
+6 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 93.13
+Fold 2
+F1-Score: 92.93
+Fold 3
+F1-Score: 93.26
+Fold 4
+F1-Score: 92.46
+Fold 5
+F1-Score: 92.58
+6 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.63
+Fold 2
+F1-Score: 92.67
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 93.29
+6 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 92.66
+Fold 2
+F1-Score: 92.43
+Fold 3
+F1-Score: 93.03
+Fold 4
+F1-Score: 92.59
+Fold 5
+F1-Score: 92.85
+6 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.50
+Fold 3
+F1-Score: 94.05
+Fold 4
+F1-Score: 92.44
+Fold 5
+F1-Score: 92.25
+6 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 93.09
+Fold 2
+F1-Score: 92.36
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 92.45
+Fold 5
+F1-Score: 93.23
+6 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.45
+Fold 2
+F1-Score: 93.24
+Fold 3
+F1-Score: 92.46
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 93.48
+6 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.32
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 92.84
+Fold 5
+F1-Score: 93.14
+6 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 93.09
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 92.60
+6 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 92.93
+Fold 3
+F1-Score: 93.18
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 93.58
+6 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.93
+Fold 3
+F1-Score: 92.59
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 92.91
+6 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.40
+Fold 2
+F1-Score: 93.55
+Fold 3
+F1-Score: 92.84
+Fold 4
+F1-Score: 92.68
+Fold 5
+F1-Score: 93.20
+6 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 92.83
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 93.22
+6 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.95
+Fold 2
+F1-Score: 92.54
+Fold 3
+F1-Score: 93.01
+Fold 4
+F1-Score: 92.93
+Fold 5
+F1-Score: 92.29
+6 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 93.18
+Fold 2
+F1-Score: 92.67
+Fold 3
+F1-Score: 92.12
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 93.27
+6 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 92.91
+Fold 4
+F1-Score: 92.93
+Fold 5
+F1-Score: 93.07
+6 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 93.21
+Fold 4
+F1-Score: 92.65
+Fold 5
+F1-Score: 92.68
+6 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 93.09
+Fold 2
+F1-Score: 93.11
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 92.75
+Fold 5
+F1-Score: 92.86
+6 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 93.08
+Fold 2
+F1-Score: 93.07
+Fold 3
+F1-Score: 93.15
+Fold 4
+F1-Score: 92.48
+Fold 5
+F1-Score: 93.70
+6 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 93.48
+Fold 2
+F1-Score: 93.08
+Fold 3
+F1-Score: 92.69
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 92.75
+6 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 93.18
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 92.86
+6 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.90
+Fold 2
+F1-Score: 92.41
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 92.18
+Fold 5
+F1-Score: 93.08
+6 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 93.29
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 92.93
+Fold 5
+F1-Score: 92.93
+6 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 93.51
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 92.74
+Fold 5
+F1-Score: 92.82
+6 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.72
+Fold 2
+F1-Score: 92.54
+Fold 3
+F1-Score: 93.76
+Fold 4
+F1-Score: 93.19
+Fold 5
+F1-Score: 93.27
+6 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 93.12
+Fold 3
+F1-Score: 92.84
+Fold 4
+F1-Score: 93.72
+Fold 5
+F1-Score: 92.91
+6 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.11
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+7 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 92.80
+Fold 5
+F1-Score: 83.97
+7 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 85.74
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.41
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 92.99
+7 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 87.46
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 92.45
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 83.97
+7 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 89.19
+----------------------------------------
+Fold 1
+F1-Score: 92.98
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 93.34
+Fold 4
+F1-Score: 93.66
+Fold 5
+F1-Score: 93.26
+7 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 92.63
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 92.90
+Fold 5
+F1-Score: 92.55
+7 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.36
+Fold 2
+F1-Score: 92.88
+Fold 3
+F1-Score: 92.53
+Fold 4
+F1-Score: 93.16
+Fold 5
+F1-Score: 93.22
+7 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 93.13
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 93.31
+Fold 4
+F1-Score: 92.93
+Fold 5
+F1-Score: 92.60
+7 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 92.93
+Fold 4
+F1-Score: 92.65
+Fold 5
+F1-Score: 92.76
+7 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.60
+Fold 2
+F1-Score: 92.02
+Fold 3
+F1-Score: 92.78
+Fold 4
+F1-Score: 94.18
+Fold 5
+F1-Score: 92.66
+7 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 93.41
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 92.87
+Fold 5
+F1-Score: 92.37
+7 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.16
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 91.92
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 92.86
+7 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.62
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 92.27
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 92.45
+7 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 93.30
+Fold 2
+F1-Score: 92.81
+Fold 3
+F1-Score: 92.35
+Fold 4
+F1-Score: 92.41
+Fold 5
+F1-Score: 93.05
+7 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 92.92
+Fold 2
+F1-Score: 92.47
+Fold 3
+F1-Score: 92.40
+Fold 4
+F1-Score: 92.50
+Fold 5
+F1-Score: 93.03
+7 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.67
+----------------------------------------
+Fold 1
+F1-Score: 92.30
+Fold 2
+F1-Score: 92.74
+Fold 3
+F1-Score: 92.89
+Fold 4
+F1-Score: 92.84
+Fold 5
+F1-Score: 92.83
+7 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.72
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 93.25
+Fold 3
+F1-Score: 92.45
+Fold 4
+F1-Score: 93.71
+Fold 5
+F1-Score: 92.64
+7 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 93.29
+Fold 2
+F1-Score: 92.36
+Fold 3
+F1-Score: 92.99
+Fold 4
+F1-Score: 92.23
+Fold 5
+F1-Score: 93.13
+7 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 92.65
+Fold 2
+F1-Score: 92.48
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 92.58
+7 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.65
+----------------------------------------
+Fold 1
+F1-Score: 92.90
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 93.23
+Fold 4
+F1-Score: 92.57
+Fold 5
+F1-Score: 92.37
+7 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.56
+Fold 2
+F1-Score: 93.08
+Fold 3
+F1-Score: 92.28
+Fold 4
+F1-Score: 92.77
+Fold 5
+F1-Score: 91.99
+7 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.54
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 93.17
+Fold 3
+F1-Score: 92.77
+Fold 4
+F1-Score: 93.04
+Fold 5
+F1-Score: 92.83
+7 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.73
+Fold 2
+F1-Score: 93.41
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 93.35
+Fold 5
+F1-Score: 92.31
+7 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.88
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 92.31
+Fold 5
+F1-Score: 93.15
+7 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.01
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 92.55
+7 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.60
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.50
+Fold 3
+F1-Score: 93.41
+Fold 4
+F1-Score: 93.37
+Fold 5
+F1-Score: 93.18
+7 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 93.08
+Fold 2
+F1-Score: 93.09
+Fold 3
+F1-Score: 92.67
+Fold 4
+F1-Score: 92.88
+Fold 5
+F1-Score: 93.21
+7 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 92.74
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 92.54
+7 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.23
+Fold 2
+F1-Score: 93.31
+Fold 3
+F1-Score: 92.56
+Fold 4
+F1-Score: 93.55
+Fold 5
+F1-Score: 92.82
+7 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 93.23
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 92.58
+Fold 5
+F1-Score: 93.25
+7 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.32
+Fold 2
+F1-Score: 92.93
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.84
+Fold 5
+F1-Score: 93.66
+7 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 93.14
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 93.15
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 93.31
+Fold 5
+F1-Score: 92.27
+7 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 93.21
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 93.01
+Fold 4
+F1-Score: 92.80
+Fold 5
+F1-Score: 93.31
+7 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 92.05
+Fold 2
+F1-Score: 93.96
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 92.73
+Fold 5
+F1-Score: 93.03
+7 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 93.33
+Fold 2
+F1-Score: 93.65
+Fold 3
+F1-Score: 93.09
+Fold 4
+F1-Score: 92.90
+Fold 5
+F1-Score: 93.53
+7 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.30
+----------------------------------------
+Fold 1
+F1-Score: 93.15
+Fold 2
+F1-Score: 93.31
+Fold 3
+F1-Score: 93.38
+Fold 4
+F1-Score: 92.41
+Fold 5
+F1-Score: 92.79
+7 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.43
+Fold 2
+F1-Score: 93.68
+Fold 3
+F1-Score: 92.76
+Fold 4
+F1-Score: 93.46
+Fold 5
+F1-Score: 92.89
+7 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 93.07
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 93.16
+Fold 4
+F1-Score: 92.11
+Fold 5
+F1-Score: 93.28
+7 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 93.67
+Fold 2
+F1-Score: 93.20
+Fold 3
+F1-Score: 92.57
+Fold 4
+F1-Score: 92.46
+Fold 5
+F1-Score: 93.72
+7 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 93.12
+----------------------------------------
+Fold 1
+F1-Score: 93.52
+Fold 2
+F1-Score: 93.30
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 92.93
+Fold 5
+F1-Score: 92.73
+7 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.06
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+8 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+8 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 92.43
+Fold 3
+F1-Score: 92.65
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+8 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 89.16
+----------------------------------------
+Fold 1
+F1-Score: 93.13
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 92.83
+Fold 4
+F1-Score: 92.43
+Fold 5
+F1-Score: 93.41
+8 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.78
+Fold 2
+F1-Score: 93.35
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 93.18
+Fold 5
+F1-Score: 92.99
+8 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 92.37
+Fold 2
+F1-Score: 92.90
+Fold 3
+F1-Score: 92.87
+Fold 4
+F1-Score: 91.90
+Fold 5
+F1-Score: 92.52
+8 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 92.51
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 93.61
+Fold 3
+F1-Score: 93.23
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 92.28
+8 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.10
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 92.91
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 93.32
+8 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 92.84
+Fold 4
+F1-Score: 93.08
+Fold 5
+F1-Score: 92.29
+8 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.53
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 92.22
+Fold 4
+F1-Score: 92.63
+Fold 5
+F1-Score: 93.59
+8 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 92.74
+Fold 2
+F1-Score: 92.23
+Fold 3
+F1-Score: 92.34
+Fold 4
+F1-Score: 93.14
+Fold 5
+F1-Score: 93.47
+8 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 93.16
+Fold 3
+F1-Score: 92.47
+Fold 4
+F1-Score: 92.70
+Fold 5
+F1-Score: 92.96
+8 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.48
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 92.30
+Fold 5
+F1-Score: 92.82
+8 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 92.60
+Fold 2
+F1-Score: 92.48
+Fold 3
+F1-Score: 92.80
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 92.14
+8 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.62
+----------------------------------------
+Fold 1
+F1-Score: 92.75
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 92.43
+Fold 5
+F1-Score: 93.22
+8 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.31
+Fold 2
+F1-Score: 92.60
+Fold 3
+F1-Score: 93.51
+Fold 4
+F1-Score: 92.35
+Fold 5
+F1-Score: 93.04
+8 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 93.03
+Fold 2
+F1-Score: 92.94
+Fold 3
+F1-Score: 92.52
+Fold 4
+F1-Score: 92.26
+Fold 5
+F1-Score: 92.35
+8 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.62
+----------------------------------------
+Fold 1
+F1-Score: 93.04
+Fold 2
+F1-Score: 92.25
+Fold 3
+F1-Score: 92.52
+Fold 4
+F1-Score: 93.39
+Fold 5
+F1-Score: 92.63
+8 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 92.70
+Fold 3
+F1-Score: 92.31
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 92.99
+8 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.88
+Fold 2
+F1-Score: 92.69
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 93.65
+Fold 5
+F1-Score: 92.79
+8 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.91
+Fold 2
+F1-Score: 92.03
+Fold 3
+F1-Score: 92.10
+Fold 4
+F1-Score: 92.41
+Fold 5
+F1-Score: 93.15
+8 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.52
+----------------------------------------
+Fold 1
+F1-Score: 93.57
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 92.49
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 92.56
+8 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.75
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 93.23
+Fold 4
+F1-Score: 93.42
+Fold 5
+F1-Score: 92.88
+8 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 92.47
+Fold 2
+F1-Score: 92.80
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 92.97
+Fold 5
+F1-Score: 93.65
+8 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.64
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 92.19
+Fold 4
+F1-Score: 92.47
+Fold 5
+F1-Score: 92.41
+8 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 93.58
+Fold 4
+F1-Score: 93.36
+Fold 5
+F1-Score: 93.00
+8 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.32
+----------------------------------------
+Fold 1
+F1-Score: 93.36
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 92.68
+Fold 4
+F1-Score: 92.53
+Fold 5
+F1-Score: 92.89
+8 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 94.01
+Fold 2
+F1-Score: 92.37
+Fold 3
+F1-Score: 93.10
+Fold 4
+F1-Score: 92.38
+Fold 5
+F1-Score: 92.62
+8 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 92.44
+Fold 3
+F1-Score: 93.57
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 93.11
+8 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 92.23
+Fold 2
+F1-Score: 92.59
+Fold 3
+F1-Score: 93.22
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 92.77
+8 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 93.11
+Fold 2
+F1-Score: 93.07
+Fold 3
+F1-Score: 92.00
+Fold 4
+F1-Score: 93.20
+Fold 5
+F1-Score: 92.83
+8 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.33
+Fold 2
+F1-Score: 93.42
+Fold 3
+F1-Score: 92.51
+Fold 4
+F1-Score: 93.76
+Fold 5
+F1-Score: 93.34
+8 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 93.65
+Fold 2
+F1-Score: 93.23
+Fold 3
+F1-Score: 92.63
+Fold 4
+F1-Score: 92.78
+Fold 5
+F1-Score: 93.52
+8 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.16
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.26
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 93.94
+Fold 5
+F1-Score: 92.37
+8 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 92.82
+Fold 2
+F1-Score: 92.81
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 92.66
+8 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.67
+Fold 2
+F1-Score: 93.12
+Fold 3
+F1-Score: 92.97
+Fold 4
+F1-Score: 93.32
+Fold 5
+F1-Score: 93.00
+8 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.43
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.48
+Fold 5
+F1-Score: 93.09
+8 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 92.38
+Fold 3
+F1-Score: 92.58
+Fold 4
+F1-Score: 92.60
+Fold 5
+F1-Score: 93.11
+8 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.86
+Fold 3
+F1-Score: 91.99
+Fold 4
+F1-Score: 93.11
+Fold 5
+F1-Score: 92.55
+8 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.68
+----------------------------------------
+Fold 1
+F1-Score: 93.27
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 91.93
+Fold 4
+F1-Score: 93.08
+Fold 5
+F1-Score: 93.26
+8 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 92.91
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+9 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+9 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 93.38
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 93.73
+Fold 5
+F1-Score: 92.82
+9 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 89.58
+----------------------------------------
+Fold 1
+F1-Score: 92.72
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 91.91
+Fold 4
+F1-Score: 93.44
+Fold 5
+F1-Score: 93.55
+9 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 91.12
+----------------------------------------
+Fold 1
+F1-Score: 92.60
+Fold 2
+F1-Score: 93.06
+Fold 3
+F1-Score: 92.80
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 92.98
+9 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 91.08
+----------------------------------------
+Fold 1
+F1-Score: 93.81
+Fold 2
+F1-Score: 93.12
+Fold 3
+F1-Score: 93.44
+Fold 4
+F1-Score: 92.74
+Fold 5
+F1-Score: 92.45
+9 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 93.24
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 92.45
+Fold 4
+F1-Score: 93.20
+Fold 5
+F1-Score: 93.44
+9 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 92.42
+Fold 2
+F1-Score: 92.94
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 92.36
+Fold 5
+F1-Score: 93.35
+9 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 92.69
+Fold 2
+F1-Score: 92.85
+Fold 3
+F1-Score: 93.08
+Fold 4
+F1-Score: 92.76
+Fold 5
+F1-Score: 92.98
+9 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 92.65
+Fold 3
+F1-Score: 92.53
+Fold 4
+F1-Score: 93.37
+Fold 5
+F1-Score: 93.28
+9 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.31
+Fold 2
+F1-Score: 92.67
+Fold 3
+F1-Score: 92.72
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 92.90
+9 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 92.73
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 93.23
+Fold 4
+F1-Score: 92.30
+Fold 5
+F1-Score: 92.38
+9 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 93.19
+Fold 2
+F1-Score: 92.67
+Fold 3
+F1-Score: 91.72
+Fold 4
+F1-Score: 93.14
+Fold 5
+F1-Score: 93.59
+9 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 93.12
+Fold 2
+F1-Score: 92.80
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 93.39
+Fold 5
+F1-Score: 92.73
+9 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 93.20
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 92.50
+Fold 4
+F1-Score: 93.03
+Fold 5
+F1-Score: 92.98
+9 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.32
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 92.90
+Fold 5
+F1-Score: 92.58
+9 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.67
+----------------------------------------
+Fold 1
+F1-Score: 93.34
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 92.28
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 92.28
+9 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 92.80
+Fold 3
+F1-Score: 92.43
+Fold 4
+F1-Score: 93.35
+Fold 5
+F1-Score: 92.68
+9 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.57
+Fold 2
+F1-Score: 92.59
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 92.62
+9 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 93.59
+Fold 2
+F1-Score: 93.32
+Fold 3
+F1-Score: 93.56
+Fold 4
+F1-Score: 92.73
+Fold 5
+F1-Score: 93.19
+9 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.28
+----------------------------------------
+Fold 1
+F1-Score: 92.67
+Fold 2
+F1-Score: 91.92
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 93.42
+Fold 5
+F1-Score: 93.68
+9 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 92.13
+Fold 3
+F1-Score: 93.66
+Fold 4
+F1-Score: 92.73
+Fold 5
+F1-Score: 92.47
+9 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 93.50
+Fold 3
+F1-Score: 92.95
+Fold 4
+F1-Score: 92.94
+Fold 5
+F1-Score: 92.41
+9 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.64
+Fold 2
+F1-Score: 93.17
+Fold 3
+F1-Score: 93.23
+Fold 4
+F1-Score: 93.09
+Fold 5
+F1-Score: 92.71
+9 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.58
+Fold 2
+F1-Score: 93.87
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 93.16
+9 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.18
+Fold 2
+F1-Score: 93.38
+Fold 3
+F1-Score: 92.62
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 93.00
+9 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.95
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 92.62
+Fold 4
+F1-Score: 92.37
+Fold 5
+F1-Score: 92.16
+9 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.63
+----------------------------------------
+Fold 1
+F1-Score: 92.33
+Fold 2
+F1-Score: 92.51
+Fold 3
+F1-Score: 93.24
+Fold 4
+F1-Score: 92.97
+Fold 5
+F1-Score: 93.17
+9 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 93.04
+Fold 2
+F1-Score: 92.47
+Fold 3
+F1-Score: 93.13
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 92.57
+9 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.75
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 93.35
+Fold 4
+F1-Score: 92.62
+Fold 5
+F1-Score: 92.74
+9 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.43
+Fold 2
+F1-Score: 92.39
+Fold 3
+F1-Score: 92.22
+Fold 4
+F1-Score: 93.61
+Fold 5
+F1-Score: 92.73
+9 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.68
+----------------------------------------
+Fold 1
+F1-Score: 92.38
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 93.30
+Fold 5
+F1-Score: 92.85
+9 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 93.61
+Fold 3
+F1-Score: 92.56
+Fold 4
+F1-Score: 93.25
+Fold 5
+F1-Score: 92.37
+9 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.61
+Fold 2
+F1-Score: 93.00
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 92.98
+Fold 5
+F1-Score: 92.73
+9 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.40
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 93.42
+Fold 4
+F1-Score: 93.22
+Fold 5
+F1-Score: 92.64
+9 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.14
+----------------------------------------
+Fold 1
+F1-Score: 92.51
+Fold 2
+F1-Score: 92.69
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 93.32
+Fold 5
+F1-Score: 92.48
+9 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.48
+Fold 2
+F1-Score: 93.60
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 93.31
+Fold 5
+F1-Score: 92.32
+9 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.66
+Fold 2
+F1-Score: 93.50
+Fold 3
+F1-Score: 92.19
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 93.21
+9 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 92.08
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 93.21
+9 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 93.40
+Fold 3
+F1-Score: 92.99
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 93.68
+9 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.20
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+10 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+10 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 92.62
+Fold 5
+F1-Score: 83.97
+10 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 85.70
+----------------------------------------
+Fold 1
+F1-Score: 92.61
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 83.97
+10 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 89.25
+----------------------------------------
+Fold 1
+F1-Score: 92.55
+Fold 2
+F1-Score: 93.51
+Fold 3
+F1-Score: 93.25
+Fold 4
+F1-Score: 93.28
+Fold 5
+F1-Score: 93.32
+10 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.18
+----------------------------------------
+Fold 1
+F1-Score: 92.41
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 93.82
+Fold 5
+F1-Score: 93.07
+10 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.07
+Fold 2
+F1-Score: 92.52
+Fold 3
+F1-Score: 92.27
+Fold 4
+F1-Score: 93.28
+Fold 5
+F1-Score: 92.92
+10 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 93.10
+Fold 3
+F1-Score: 92.89
+Fold 4
+F1-Score: 92.96
+Fold 5
+F1-Score: 93.11
+10 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.23
+Fold 2
+F1-Score: 93.44
+Fold 3
+F1-Score: 92.66
+Fold 4
+F1-Score: 92.64
+Fold 5
+F1-Score: 93.19
+10 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 93.64
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 92.33
+Fold 5
+F1-Score: 92.68
+10 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.71
+Fold 2
+F1-Score: 92.53
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.70
+Fold 5
+F1-Score: 93.31
+10 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.26
+Fold 2
+F1-Score: 92.65
+Fold 3
+F1-Score: 91.85
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 92.33
+10 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.45
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 93.31
+Fold 4
+F1-Score: 92.53
+Fold 5
+F1-Score: 93.25
+10 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.18
+Fold 2
+F1-Score: 93.35
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 93.09
+Fold 5
+F1-Score: 92.79
+10 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 92.37
+Fold 2
+F1-Score: 92.45
+Fold 3
+F1-Score: 93.25
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 92.70
+10 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 93.24
+Fold 3
+F1-Score: 92.54
+Fold 4
+F1-Score: 92.68
+Fold 5
+F1-Score: 93.11
+10 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 93.45
+Fold 2
+F1-Score: 92.71
+Fold 3
+F1-Score: 93.13
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 92.74
+10 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.52
+Fold 2
+F1-Score: 92.94
+Fold 3
+F1-Score: 92.87
+Fold 4
+F1-Score: 93.04
+Fold 5
+F1-Score: 92.93
+10 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.52
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 93.55
+Fold 4
+F1-Score: 92.18
+Fold 5
+F1-Score: 92.72
+10 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 92.39
+Fold 2
+F1-Score: 93.35
+Fold 3
+F1-Score: 92.86
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 93.06
+10 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.39
+Fold 2
+F1-Score: 92.69
+Fold 3
+F1-Score: 92.55
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 93.55
+10 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 93.76
+Fold 2
+F1-Score: 92.05
+Fold 3
+F1-Score: 93.08
+Fold 4
+F1-Score: 92.51
+Fold 5
+F1-Score: 92.44
+10 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 92.78
+Fold 3
+F1-Score: 92.66
+Fold 4
+F1-Score: 92.95
+Fold 5
+F1-Score: 92.36
+10 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 92.64
+Fold 2
+F1-Score: 93.91
+Fold 3
+F1-Score: 92.58
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 92.49
+10 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 92.12
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 92.63
+Fold 5
+F1-Score: 92.96
+10 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 93.51
+Fold 2
+F1-Score: 92.79
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.47
+Fold 5
+F1-Score: 92.26
+10 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.54
+Fold 3
+F1-Score: 92.19
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 93.72
+10 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 92.40
+Fold 3
+F1-Score: 92.58
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 92.68
+10 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.66
+Fold 2
+F1-Score: 93.66
+Fold 3
+F1-Score: 92.49
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 92.95
+10 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 92.06
+Fold 3
+F1-Score: 93.82
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 92.53
+10 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.82
+Fold 2
+F1-Score: 92.59
+Fold 3
+F1-Score: 92.56
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 93.53
+10 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.68
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 93.37
+Fold 4
+F1-Score: 92.98
+Fold 5
+F1-Score: 93.23
+10 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.25
+----------------------------------------
+Fold 1
+F1-Score: 93.03
+Fold 2
+F1-Score: 92.79
+Fold 3
+F1-Score: 92.79
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 93.18
+10 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 92.27
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 92.80
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 92.84
+10 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.54
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 92.41
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 93.17
+10 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 92.87
+10 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.92
+Fold 2
+F1-Score: 92.74
+Fold 3
+F1-Score: 92.70
+Fold 4
+F1-Score: 93.18
+Fold 5
+F1-Score: 93.30
+10 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.69
+Fold 2
+F1-Score: 93.11
+Fold 3
+F1-Score: 92.93
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 92.60
+10 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.73
+Fold 2
+F1-Score: 92.71
+Fold 3
+F1-Score: 92.74
+Fold 4
+F1-Score: 94.07
+Fold 5
+F1-Score: 92.63
+10 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.58
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 92.98
+Fold 5
+F1-Score: 92.83
+10 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 92.99
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+11 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+11 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 93.29
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+11 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 87.59
+----------------------------------------
+Fold 1
+F1-Score: 92.56
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 83.97
+11 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 91.05
+----------------------------------------
+Fold 1
+F1-Score: 93.11
+Fold 2
+F1-Score: 92.49
+Fold 3
+F1-Score: 93.68
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 92.81
+11 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.39
+Fold 2
+F1-Score: 92.40
+Fold 3
+F1-Score: 93.30
+Fold 4
+F1-Score: 92.80
+Fold 5
+F1-Score: 93.32
+11 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 93.13
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 93.27
+Fold 5
+F1-Score: 93.49
+11 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 92.63
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 93.55
+Fold 4
+F1-Score: 93.37
+Fold 5
+F1-Score: 93.07
+11 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 93.38
+Fold 2
+F1-Score: 92.48
+Fold 3
+F1-Score: 93.07
+Fold 4
+F1-Score: 92.38
+Fold 5
+F1-Score: 92.40
+11 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 93.10
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 92.45
+Fold 4
+F1-Score: 92.80
+Fold 5
+F1-Score: 93.03
+11 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.94
+Fold 2
+F1-Score: 93.52
+Fold 3
+F1-Score: 92.91
+Fold 4
+F1-Score: 92.23
+Fold 5
+F1-Score: 92.84
+11 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.66
+Fold 2
+F1-Score: 93.08
+Fold 3
+F1-Score: 92.97
+Fold 4
+F1-Score: 92.88
+Fold 5
+F1-Score: 93.17
+11 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 91.95
+Fold 2
+F1-Score: 92.85
+Fold 3
+F1-Score: 93.36
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 92.84
+11 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.54
+Fold 2
+F1-Score: 92.34
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 93.55
+11 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 92.35
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 92.87
+Fold 5
+F1-Score: 93.35
+11 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.82
+Fold 2
+F1-Score: 93.06
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.74
+Fold 5
+F1-Score: 92.63
+11 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.92
+Fold 3
+F1-Score: 93.14
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 92.99
+11 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 92.60
+Fold 3
+F1-Score: 92.55
+Fold 4
+F1-Score: 93.14
+Fold 5
+F1-Score: 92.05
+11 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.67
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.93
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 92.50
+11 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.78
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 93.33
+Fold 4
+F1-Score: 92.87
+Fold 5
+F1-Score: 93.06
+11 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.82
+Fold 3
+F1-Score: 92.25
+Fold 4
+F1-Score: 93.36
+Fold 5
+F1-Score: 93.14
+11 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.56
+Fold 2
+F1-Score: 92.27
+Fold 3
+F1-Score: 92.97
+Fold 4
+F1-Score: 93.19
+Fold 5
+F1-Score: 93.50
+11 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.58
+Fold 3
+F1-Score: 92.67
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 92.54
+11 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.67
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 92.77
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 92.41
+11 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 93.13
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 92.39
+11 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 91.95
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 92.62
+Fold 5
+F1-Score: 93.12
+11 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.57
+Fold 2
+F1-Score: 93.53
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 93.14
+Fold 5
+F1-Score: 92.93
+11 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 92.61
+Fold 3
+F1-Score: 92.76
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 92.78
+11 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.70
+----------------------------------------
+Fold 1
+F1-Score: 92.70
+Fold 2
+F1-Score: 93.00
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 92.79
+11 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 92.56
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 92.87
+11 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 92.76
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 93.42
+Fold 5
+F1-Score: 93.08
+11 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 93.72
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 92.17
+Fold 5
+F1-Score: 92.71
+11 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.90
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 93.07
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 93.13
+11 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 92.39
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 93.13
+Fold 5
+F1-Score: 93.39
+11 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 93.22
+Fold 3
+F1-Score: 92.69
+Fold 4
+F1-Score: 92.87
+Fold 5
+F1-Score: 93.25
+11 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.29
+Fold 2
+F1-Score: 93.27
+Fold 3
+F1-Score: 92.65
+Fold 4
+F1-Score: 93.70
+Fold 5
+F1-Score: 92.44
+11 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 92.74
+Fold 2
+F1-Score: 93.80
+Fold 3
+F1-Score: 92.80
+Fold 4
+F1-Score: 93.55
+Fold 5
+F1-Score: 92.59
+11 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 93.15
+Fold 2
+F1-Score: 93.57
+Fold 3
+F1-Score: 92.62
+Fold 4
+F1-Score: 92.76
+Fold 5
+F1-Score: 93.34
+11 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.09
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 92.47
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 93.30
+11 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.28
+Fold 2
+F1-Score: 93.35
+Fold 3
+F1-Score: 93.01
+Fold 4
+F1-Score: 92.87
+Fold 5
+F1-Score: 92.93
+11 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.09
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+12 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+12 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 92.91
+Fold 2
+F1-Score: 92.76
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 92.03
+Fold 5
+F1-Score: 93.21
+12 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 90.97
+----------------------------------------
+Fold 1
+F1-Score: 93.07
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 92.81
+12 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 87.56
+----------------------------------------
+Fold 1
+F1-Score: 93.55
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 92.56
+Fold 4
+F1-Score: 93.08
+Fold 5
+F1-Score: 92.72
+12 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 93.11
+Fold 2
+F1-Score: 93.52
+Fold 3
+F1-Score: 92.49
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 93.47
+12 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 93.22
+Fold 2
+F1-Score: 93.13
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 93.63
+Fold 5
+F1-Score: 92.98
+12 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.17
+----------------------------------------
+Fold 1
+F1-Score: 92.98
+Fold 2
+F1-Score: 93.34
+Fold 3
+F1-Score: 92.23
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 93.25
+12 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.62
+Fold 2
+F1-Score: 92.98
+Fold 3
+F1-Score: 92.99
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 92.70
+12 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.68
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 93.16
+Fold 5
+F1-Score: 92.37
+12 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 92.98
+Fold 4
+F1-Score: 91.99
+Fold 5
+F1-Score: 93.37
+12 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.79
+----------------------------------------
+Fold 1
+F1-Score: 93.04
+Fold 2
+F1-Score: 92.90
+Fold 3
+F1-Score: 92.13
+Fold 4
+F1-Score: 93.42
+Fold 5
+F1-Score: 93.37
+12 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.36
+Fold 3
+F1-Score: 93.15
+Fold 4
+F1-Score: 92.87
+Fold 5
+F1-Score: 93.31
+12 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.41
+Fold 2
+F1-Score: 92.44
+Fold 3
+F1-Score: 93.31
+Fold 4
+F1-Score: 93.18
+Fold 5
+F1-Score: 92.73
+12 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 93.36
+Fold 2
+F1-Score: 92.81
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 92.34
+12 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.56
+Fold 2
+F1-Score: 92.40
+Fold 3
+F1-Score: 93.21
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 93.11
+12 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 92.06
+Fold 4
+F1-Score: 93.20
+Fold 5
+F1-Score: 92.79
+12 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.61
+Fold 2
+F1-Score: 93.19
+Fold 3
+F1-Score: 93.04
+Fold 4
+F1-Score: 92.50
+Fold 5
+F1-Score: 92.82
+12 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 92.83
+Fold 4
+F1-Score: 92.79
+Fold 5
+F1-Score: 92.57
+12 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.72
+----------------------------------------
+Fold 1
+F1-Score: 93.57
+Fold 2
+F1-Score: 93.69
+Fold 3
+F1-Score: 93.24
+Fold 4
+F1-Score: 92.74
+Fold 5
+F1-Score: 92.95
+12 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.24
+----------------------------------------
+Fold 1
+F1-Score: 93.61
+Fold 2
+F1-Score: 92.16
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 92.73
+Fold 5
+F1-Score: 92.60
+12 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 93.12
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 92.98
+Fold 5
+F1-Score: 92.56
+12 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 93.08
+Fold 3
+F1-Score: 92.43
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 93.42
+12 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 93.23
+Fold 2
+F1-Score: 92.39
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.69
+Fold 5
+F1-Score: 93.21
+12 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.26
+Fold 2
+F1-Score: 92.49
+Fold 3
+F1-Score: 92.13
+Fold 4
+F1-Score: 92.95
+Fold 5
+F1-Score: 93.04
+12 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.57
+----------------------------------------
+Fold 1
+F1-Score: 92.28
+Fold 2
+F1-Score: 92.60
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 92.93
+Fold 5
+F1-Score: 93.58
+12 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.50
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 92.89
+Fold 4
+F1-Score: 93.52
+Fold 5
+F1-Score: 92.79
+12 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.39
+Fold 2
+F1-Score: 93.28
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 92.75
+Fold 5
+F1-Score: 93.04
+12 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 93.24
+Fold 2
+F1-Score: 93.28
+Fold 3
+F1-Score: 93.31
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 91.95
+12 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.07
+Fold 2
+F1-Score: 93.24
+Fold 3
+F1-Score: 91.79
+Fold 4
+F1-Score: 93.38
+Fold 5
+F1-Score: 92.97
+12 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.37
+Fold 2
+F1-Score: 92.90
+Fold 3
+F1-Score: 93.07
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 93.18
+12 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 92.16
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 93.37
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 92.35
+12 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.88
+Fold 2
+F1-Score: 92.62
+Fold 3
+F1-Score: 92.53
+Fold 4
+F1-Score: 92.91
+Fold 5
+F1-Score: 93.61
+12 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.31
+Fold 2
+F1-Score: 92.62
+Fold 3
+F1-Score: 93.34
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 92.87
+12 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.37
+Fold 2
+F1-Score: 93.27
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 92.91
+12 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 92.14
+Fold 5
+F1-Score: 93.19
+12 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 93.40
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 92.70
+12 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.17
+Fold 2
+F1-Score: 92.81
+Fold 3
+F1-Score: 93.08
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 92.85
+12 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 93.51
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 93.00
+12 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 93.15
+----------------------------------------
+Fold 1
+F1-Score: 93.72
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 93.31
+Fold 4
+F1-Score: 92.97
+Fold 5
+F1-Score: 92.01
+12 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.00
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+13 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+13 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.84
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 83.97
+13 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 87.46
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+13 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 92.63
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 93.27
+Fold 5
+F1-Score: 93.06
+13 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 91.22
+----------------------------------------
+Fold 1
+F1-Score: 92.74
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 92.79
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 92.35
+13 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 92.66
+----------------------------------------
+Fold 1
+F1-Score: 93.44
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 92.90
+Fold 5
+F1-Score: 92.54
+13 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 93.24
+Fold 2
+F1-Score: 92.22
+Fold 3
+F1-Score: 93.24
+Fold 4
+F1-Score: 92.76
+Fold 5
+F1-Score: 92.87
+13 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 93.56
+Fold 2
+F1-Score: 93.11
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 92.76
+13 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 91.21
+----------------------------------------
+Fold 1
+F1-Score: 91.99
+Fold 2
+F1-Score: 92.21
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 92.78
+Fold 5
+F1-Score: 93.26
+13 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.65
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 93.04
+Fold 4
+F1-Score: 92.27
+Fold 5
+F1-Score: 93.41
+13 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 93.20
+Fold 2
+F1-Score: 92.48
+Fold 3
+F1-Score: 93.14
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 93.06
+13 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 93.02
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 92.10
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 92.84
+13 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 93.07
+Fold 3
+F1-Score: 92.91
+Fold 4
+F1-Score: 92.85
+Fold 5
+F1-Score: 92.55
+13 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 92.39
+Fold 3
+F1-Score: 92.51
+Fold 4
+F1-Score: 93.41
+Fold 5
+F1-Score: 92.82
+13 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 92.87
+13 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.34
+Fold 2
+F1-Score: 93.23
+Fold 3
+F1-Score: 92.67
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 93.30
+13 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.62
+Fold 2
+F1-Score: 92.29
+Fold 3
+F1-Score: 92.60
+Fold 4
+F1-Score: 92.95
+Fold 5
+F1-Score: 93.34
+13 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.70
+Fold 2
+F1-Score: 93.37
+Fold 3
+F1-Score: 93.76
+Fold 4
+F1-Score: 92.49
+Fold 5
+F1-Score: 93.47
+13 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 93.16
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 92.63
+Fold 3
+F1-Score: 93.23
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 92.60
+13 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.95
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 92.81
+13 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.48
+Fold 2
+F1-Score: 92.86
+Fold 3
+F1-Score: 93.10
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 93.53
+13 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 93.04
+Fold 2
+F1-Score: 93.19
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 93.31
+13 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 92.05
+Fold 2
+F1-Score: 93.80
+Fold 3
+F1-Score: 92.72
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 93.14
+13 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.19
+Fold 2
+F1-Score: 92.71
+Fold 3
+F1-Score: 92.37
+Fold 4
+F1-Score: 92.73
+Fold 5
+F1-Score: 92.87
+13 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.33
+Fold 2
+F1-Score: 93.56
+Fold 3
+F1-Score: 93.85
+Fold 4
+F1-Score: 92.69
+Fold 5
+F1-Score: 92.53
+13 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.55
+Fold 2
+F1-Score: 92.80
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 92.33
+Fold 5
+F1-Score: 93.67
+13 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 93.95
+Fold 2
+F1-Score: 92.40
+Fold 3
+F1-Score: 92.76
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 93.14
+13 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 92.69
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 92.37
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 92.41
+13 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.75
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 92.90
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 92.60
+Fold 5
+F1-Score: 92.61
+13 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.16
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 93.63
+13 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 93.04
+Fold 2
+F1-Score: 93.62
+Fold 3
+F1-Score: 92.27
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 93.15
+13 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 92.66
+Fold 3
+F1-Score: 92.76
+Fold 4
+F1-Score: 92.75
+Fold 5
+F1-Score: 92.81
+13 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 93.47
+Fold 5
+F1-Score: 92.51
+13 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 93.58
+Fold 2
+F1-Score: 92.39
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 92.91
+Fold 5
+F1-Score: 93.03
+13 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.48
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 92.42
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 92.95
+13 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.78
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 93.86
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 93.44
+13 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 92.40
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 93.61
+Fold 4
+F1-Score: 93.41
+Fold 5
+F1-Score: 93.22
+13 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 93.45
+Fold 4
+F1-Score: 92.20
+Fold 5
+F1-Score: 92.59
+13 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 93.34
+Fold 2
+F1-Score: 92.90
+Fold 3
+F1-Score: 93.50
+Fold 4
+F1-Score: 92.65
+Fold 5
+F1-Score: 93.38
+13 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.15
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+14 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+14 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+14 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+14 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 85.75
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 92.66
+Fold 3
+F1-Score: 93.09
+Fold 4
+F1-Score: 93.05
+Fold 5
+F1-Score: 92.47
+14 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 92.06
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 92.54
+14 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 92.75
+----------------------------------------
+Fold 1
+F1-Score: 94.00
+Fold 2
+F1-Score: 92.20
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 92.96
+14 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 92.06
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 93.58
+Fold 5
+F1-Score: 92.53
+14 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 93.37
+Fold 4
+F1-Score: 93.50
+Fold 5
+F1-Score: 92.58
+14 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 93.21
+Fold 2
+F1-Score: 93.22
+Fold 3
+F1-Score: 92.68
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 92.42
+14 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.38
+Fold 2
+F1-Score: 92.72
+Fold 3
+F1-Score: 92.74
+Fold 4
+F1-Score: 93.30
+Fold 5
+F1-Score: 92.94
+14 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.50
+Fold 2
+F1-Score: 93.54
+Fold 3
+F1-Score: 92.53
+Fold 4
+F1-Score: 92.41
+Fold 5
+F1-Score: 93.11
+14 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 93.02
+Fold 2
+F1-Score: 93.31
+Fold 3
+F1-Score: 92.63
+Fold 4
+F1-Score: 93.30
+Fold 5
+F1-Score: 92.91
+14 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 93.74
+Fold 3
+F1-Score: 92.30
+Fold 4
+F1-Score: 91.94
+Fold 5
+F1-Score: 93.02
+14 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 92.39
+Fold 3
+F1-Score: 91.81
+Fold 4
+F1-Score: 93.27
+Fold 5
+F1-Score: 92.79
+14 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.62
+----------------------------------------
+Fold 1
+F1-Score: 93.35
+Fold 2
+F1-Score: 93.17
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 92.84
+Fold 5
+F1-Score: 92.67
+14 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 92.95
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 93.69
+Fold 4
+F1-Score: 92.45
+Fold 5
+F1-Score: 93.73
+14 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 93.17
+----------------------------------------
+Fold 1
+F1-Score: 92.52
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 92.54
+Fold 4
+F1-Score: 92.52
+Fold 5
+F1-Score: 93.60
+14 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 93.14
+Fold 2
+F1-Score: 92.40
+Fold 3
+F1-Score: 92.45
+Fold 4
+F1-Score: 93.18
+Fold 5
+F1-Score: 92.50
+14 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.73
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 92.60
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 93.44
+14 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 93.17
+Fold 2
+F1-Score: 92.52
+Fold 3
+F1-Score: 92.21
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 93.35
+14 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.79
+----------------------------------------
+Fold 1
+F1-Score: 92.62
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 93.75
+Fold 4
+F1-Score: 93.25
+Fold 5
+F1-Score: 92.84
+14 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.19
+Fold 2
+F1-Score: 93.38
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 93.14
+Fold 5
+F1-Score: 92.70
+14 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 92.70
+Fold 2
+F1-Score: 93.70
+Fold 3
+F1-Score: 92.59
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 93.25
+14 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 92.98
+Fold 2
+F1-Score: 92.49
+Fold 3
+F1-Score: 93.09
+Fold 4
+F1-Score: 93.14
+Fold 5
+F1-Score: 92.43
+14 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.27
+Fold 2
+F1-Score: 92.94
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 93.03
+Fold 5
+F1-Score: 93.33
+14 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 93.52
+Fold 2
+F1-Score: 92.42
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 93.41
+Fold 5
+F1-Score: 92.21
+14 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 93.12
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 92.55
+Fold 4
+F1-Score: 93.37
+Fold 5
+F1-Score: 93.18
+14 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 93.55
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 92.06
+Fold 4
+F1-Score: 92.93
+Fold 5
+F1-Score: 93.20
+14 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.88
+Fold 2
+F1-Score: 93.65
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 92.58
+Fold 5
+F1-Score: 92.51
+14 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.95
+Fold 2
+F1-Score: 92.38
+Fold 3
+F1-Score: 92.37
+Fold 4
+F1-Score: 93.60
+Fold 5
+F1-Score: 93.67
+14 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 92.45
+Fold 3
+F1-Score: 92.70
+Fold 4
+F1-Score: 92.47
+Fold 5
+F1-Score: 93.02
+14 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 93.32
+Fold 3
+F1-Score: 93.20
+Fold 4
+F1-Score: 92.49
+Fold 5
+F1-Score: 92.70
+14 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 93.21
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 93.09
+Fold 5
+F1-Score: 93.22
+14 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.18
+----------------------------------------
+Fold 1
+F1-Score: 93.48
+Fold 2
+F1-Score: 92.93
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 92.38
+Fold 5
+F1-Score: 92.77
+14 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 93.59
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 92.80
+14 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 93.17
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 92.48
+14 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.22
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 92.84
+Fold 5
+F1-Score: 93.27
+14 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 93.43
+Fold 3
+F1-Score: 92.78
+Fold 4
+F1-Score: 93.58
+Fold 5
+F1-Score: 93.19
+14 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 93.17
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 92.08
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 93.15
+14 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 92.77
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+15 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+15 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 83.97
+15 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 85.78
+----------------------------------------
+Fold 1
+F1-Score: 93.65
+Fold 2
+F1-Score: 93.16
+Fold 3
+F1-Score: 93.33
+Fold 4
+F1-Score: 92.53
+Fold 5
+F1-Score: 83.97
+15 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 91.33
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 92.47
+Fold 5
+F1-Score: 92.52
+15 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 89.14
+----------------------------------------
+Fold 1
+F1-Score: 92.22
+Fold 2
+F1-Score: 92.85
+Fold 3
+F1-Score: 93.96
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 93.42
+15 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.83
+Fold 2
+F1-Score: 92.31
+Fold 3
+F1-Score: 92.58
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 93.35
+15 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.94
+Fold 2
+F1-Score: 93.15
+Fold 3
+F1-Score: 92.24
+Fold 4
+F1-Score: 93.35
+Fold 5
+F1-Score: 93.63
+15 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 92.40
+Fold 2
+F1-Score: 93.14
+Fold 3
+F1-Score: 92.58
+Fold 4
+F1-Score: 92.79
+Fold 5
+F1-Score: 92.74
+15 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.73
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.33
+Fold 3
+F1-Score: 92.34
+Fold 4
+F1-Score: 92.70
+Fold 5
+F1-Score: 92.80
+15 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 92.67
+Fold 4
+F1-Score: 92.34
+Fold 5
+F1-Score: 93.33
+15 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 93.18
+Fold 3
+F1-Score: 93.49
+Fold 4
+F1-Score: 93.24
+Fold 5
+F1-Score: 92.10
+15 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 92.66
+Fold 3
+F1-Score: 92.69
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 93.33
+15 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.59
+Fold 2
+F1-Score: 93.50
+Fold 3
+F1-Score: 93.37
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 92.94
+15 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 92.55
+Fold 2
+F1-Score: 93.27
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 92.60
+Fold 5
+F1-Score: 91.97
+15 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.66
+----------------------------------------
+Fold 1
+F1-Score: 93.37
+Fold 2
+F1-Score: 92.49
+Fold 3
+F1-Score: 92.34
+Fold 4
+F1-Score: 93.08
+Fold 5
+F1-Score: 92.50
+15 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.75
+----------------------------------------
+Fold 1
+F1-Score: 92.51
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 93.52
+Fold 4
+F1-Score: 92.23
+Fold 5
+F1-Score: 92.99
+15 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.45
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 92.37
+Fold 4
+F1-Score: 93.39
+Fold 5
+F1-Score: 92.33
+15 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 92.61
+Fold 2
+F1-Score: 93.44
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 93.59
+Fold 5
+F1-Score: 92.60
+15 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 93.52
+Fold 4
+F1-Score: 92.12
+Fold 5
+F1-Score: 92.36
+15 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.70
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 92.55
+Fold 3
+F1-Score: 92.69
+Fold 4
+F1-Score: 92.97
+Fold 5
+F1-Score: 92.56
+15 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.41
+Fold 2
+F1-Score: 93.60
+Fold 3
+F1-Score: 93.24
+Fold 4
+F1-Score: 92.46
+Fold 5
+F1-Score: 92.92
+15 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.61
+Fold 2
+F1-Score: 92.01
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 92.70
+Fold 5
+F1-Score: 92.98
+15 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 93.12
+Fold 2
+F1-Score: 92.56
+Fold 3
+F1-Score: 92.89
+Fold 4
+F1-Score: 92.63
+Fold 5
+F1-Score: 93.22
+15 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 93.07
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 91.96
+Fold 5
+F1-Score: 93.10
+15 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.75
+----------------------------------------
+Fold 1
+F1-Score: 92.53
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 92.57
+Fold 4
+F1-Score: 93.24
+Fold 5
+F1-Score: 92.58
+15 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.92
+Fold 2
+F1-Score: 92.90
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 92.83
+Fold 5
+F1-Score: 93.55
+15 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 93.82
+Fold 4
+F1-Score: 93.24
+Fold 5
+F1-Score: 92.29
+15 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.39
+Fold 2
+F1-Score: 92.34
+Fold 3
+F1-Score: 92.66
+Fold 4
+F1-Score: 93.32
+Fold 5
+F1-Score: 92.78
+15 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 93.48
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 92.67
+15 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.47
+Fold 2
+F1-Score: 92.43
+Fold 3
+F1-Score: 93.32
+Fold 4
+F1-Score: 92.96
+Fold 5
+F1-Score: 93.41
+15 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 93.26
+Fold 3
+F1-Score: 92.65
+Fold 4
+F1-Score: 92.31
+Fold 5
+F1-Score: 93.29
+15 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 92.63
+Fold 3
+F1-Score: 92.87
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 93.49
+15 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 92.54
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 93.68
+Fold 5
+F1-Score: 92.47
+15 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 93.67
+Fold 2
+F1-Score: 93.23
+Fold 3
+F1-Score: 92.74
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 92.40
+15 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.01
+Fold 2
+F1-Score: 93.97
+Fold 3
+F1-Score: 93.17
+Fold 4
+F1-Score: 92.77
+Fold 5
+F1-Score: 93.70
+15 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.12
+----------------------------------------
+Fold 1
+F1-Score: 93.38
+Fold 2
+F1-Score: 92.74
+Fold 3
+F1-Score: 92.20
+Fold 4
+F1-Score: 92.83
+Fold 5
+F1-Score: 92.99
+15 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.73
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 93.31
+Fold 4
+F1-Score: 92.59
+Fold 5
+F1-Score: 92.44
+15 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.94
+Fold 2
+F1-Score: 93.09
+Fold 3
+F1-Score: 92.66
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 92.97
+15 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 92.61
+Fold 3
+F1-Score: 93.38
+Fold 4
+F1-Score: 93.48
+Fold 5
+F1-Score: 93.25
+15 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.16
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+16 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+16 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+16 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 93.10
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 93.13
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+16 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 87.63
+----------------------------------------
+Fold 1
+F1-Score: 93.62
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+16 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 85.90
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.54
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+16 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 85.68
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 92.70
+Fold 3
+F1-Score: 92.87
+Fold 4
+F1-Score: 92.14
+Fold 5
+F1-Score: 93.00
+16 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 92.23
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 93.11
+Fold 4
+F1-Score: 92.68
+Fold 5
+F1-Score: 93.05
+16 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 93.59
+Fold 5
+F1-Score: 92.65
+16 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 93.29
+Fold 2
+F1-Score: 92.70
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 93.03
+Fold 5
+F1-Score: 93.16
+16 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 92.31
+Fold 2
+F1-Score: 93.17
+Fold 3
+F1-Score: 92.80
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 91.93
+16 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 93.68
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 92.82
+Fold 4
+F1-Score: 92.24
+Fold 5
+F1-Score: 92.03
+16 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 93.37
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 92.78
+Fold 4
+F1-Score: 92.90
+Fold 5
+F1-Score: 93.28
+16 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.41
+Fold 2
+F1-Score: 92.62
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 92.75
+Fold 5
+F1-Score: 92.69
+16 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.38
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 92.39
+Fold 5
+F1-Score: 92.52
+16 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.65
+----------------------------------------
+Fold 1
+F1-Score: 92.40
+Fold 2
+F1-Score: 93.25
+Fold 3
+F1-Score: 93.44
+Fold 4
+F1-Score: 92.78
+Fold 5
+F1-Score: 92.64
+16 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.01
+Fold 2
+F1-Score: 93.39
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 92.65
+Fold 5
+F1-Score: 92.56
+16 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 93.17
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 92.96
+Fold 5
+F1-Score: 93.17
+16 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 91.90
+Fold 2
+F1-Score: 92.93
+Fold 3
+F1-Score: 92.67
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 93.51
+16 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.91
+Fold 2
+F1-Score: 92.43
+Fold 3
+F1-Score: 92.46
+Fold 4
+F1-Score: 92.67
+Fold 5
+F1-Score: 92.70
+16 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.63
+----------------------------------------
+Fold 1
+F1-Score: 93.59
+Fold 2
+F1-Score: 92.71
+Fold 3
+F1-Score: 92.27
+Fold 4
+F1-Score: 92.90
+Fold 5
+F1-Score: 92.10
+16 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 92.59
+Fold 2
+F1-Score: 93.34
+Fold 3
+F1-Score: 92.54
+Fold 4
+F1-Score: 93.36
+Fold 5
+F1-Score: 92.93
+16 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 92.90
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 92.47
+Fold 4
+F1-Score: 93.44
+Fold 5
+F1-Score: 93.26
+16 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.56
+Fold 2
+F1-Score: 92.86
+Fold 3
+F1-Score: 93.30
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 92.88
+16 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 92.58
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 93.06
+16 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.51
+Fold 3
+F1-Score: 93.42
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 92.85
+16 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.67
+Fold 2
+F1-Score: 93.19
+Fold 3
+F1-Score: 92.10
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 92.90
+16 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.68
+----------------------------------------
+Fold 1
+F1-Score: 93.21
+Fold 2
+F1-Score: 93.24
+Fold 3
+F1-Score: 92.53
+Fold 4
+F1-Score: 92.26
+Fold 5
+F1-Score: 92.77
+16 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 93.47
+Fold 2
+F1-Score: 93.27
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 92.51
+Fold 5
+F1-Score: 92.13
+16 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 93.26
+Fold 3
+F1-Score: 92.63
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 92.47
+16 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.90
+Fold 2
+F1-Score: 92.68
+Fold 3
+F1-Score: 93.69
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 93.19
+16 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 93.30
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.48
+Fold 5
+F1-Score: 92.94
+16 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.56
+Fold 2
+F1-Score: 92.28
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 92.40
+16 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.66
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 92.24
+Fold 3
+F1-Score: 92.63
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 92.98
+16 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 93.95
+Fold 2
+F1-Score: 92.83
+Fold 3
+F1-Score: 93.54
+Fold 4
+F1-Score: 93.41
+Fold 5
+F1-Score: 92.26
+16 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.20
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 93.58
+Fold 4
+F1-Score: 93.30
+Fold 5
+F1-Score: 92.74
+16 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.08
+----------------------------------------
+Fold 1
+F1-Score: 93.38
+Fold 2
+F1-Score: 92.81
+Fold 3
+F1-Score: 93.11
+Fold 4
+F1-Score: 93.19
+Fold 5
+F1-Score: 92.78
+16 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 93.51
+Fold 2
+F1-Score: 93.05
+Fold 3
+F1-Score: 93.61
+Fold 4
+F1-Score: 92.45
+Fold 5
+F1-Score: 91.67
+16 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 93.38
+Fold 2
+F1-Score: 92.69
+Fold 3
+F1-Score: 93.30
+Fold 4
+F1-Score: 92.71
+Fold 5
+F1-Score: 93.64
+16 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 93.14
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 93.84
+Fold 3
+F1-Score: 93.07
+Fold 4
+F1-Score: 93.28
+Fold 5
+F1-Score: 93.14
+16 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.25
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+17 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+17 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+17 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+17 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 93.38
+Fold 5
+F1-Score: 83.97
+17 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 85.85
+----------------------------------------
+Fold 1
+F1-Score: 92.03
+Fold 2
+F1-Score: 93.50
+Fold 3
+F1-Score: 93.15
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+17 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 89.32
+----------------------------------------
+Fold 1
+F1-Score: 93.30
+Fold 2
+F1-Score: 92.97
+Fold 3
+F1-Score: 92.87
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 92.61
+17 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 91.14
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 92.42
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 92.03
+Fold 5
+F1-Score: 92.69
+17 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 90.87
+----------------------------------------
+Fold 1
+F1-Score: 92.84
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 92.66
+17 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.72
+----------------------------------------
+Fold 1
+F1-Score: 93.48
+Fold 2
+F1-Score: 92.45
+Fold 3
+F1-Score: 93.16
+Fold 4
+F1-Score: 92.58
+Fold 5
+F1-Score: 92.70
+17 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 93.24
+Fold 3
+F1-Score: 92.77
+Fold 4
+F1-Score: 92.74
+Fold 5
+F1-Score: 93.18
+17 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.66
+Fold 2
+F1-Score: 92.25
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 92.65
+Fold 5
+F1-Score: 92.23
+17 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.55
+----------------------------------------
+Fold 1
+F1-Score: 92.25
+Fold 2
+F1-Score: 92.85
+Fold 3
+F1-Score: 93.06
+Fold 4
+F1-Score: 92.52
+Fold 5
+F1-Score: 92.75
+17 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 92.85
+Fold 2
+F1-Score: 93.41
+Fold 3
+F1-Score: 91.79
+Fold 4
+F1-Score: 92.98
+Fold 5
+F1-Score: 93.23
+17 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.85
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 92.66
+Fold 3
+F1-Score: 92.41
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 93.28
+17 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 92.69
+Fold 2
+F1-Score: 92.18
+Fold 3
+F1-Score: 92.59
+Fold 4
+F1-Score: 92.20
+Fold 5
+F1-Score: 92.99
+17 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.53
+----------------------------------------
+Fold 1
+F1-Score: 93.20
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 93.19
+Fold 4
+F1-Score: 92.27
+Fold 5
+F1-Score: 92.52
+17 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.79
+----------------------------------------
+Fold 1
+F1-Score: 92.95
+Fold 2
+F1-Score: 92.28
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 93.36
+Fold 5
+F1-Score: 93.22
+17 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.46
+Fold 2
+F1-Score: 92.66
+Fold 3
+F1-Score: 93.32
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 92.65
+17 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 93.03
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 91.58
+Fold 3
+F1-Score: 93.36
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 93.03
+17 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 92.47
+Fold 4
+F1-Score: 92.52
+Fold 5
+F1-Score: 92.69
+17 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 93.28
+Fold 2
+F1-Score: 92.63
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 92.75
+Fold 5
+F1-Score: 92.86
+17 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.22
+Fold 2
+F1-Score: 93.53
+Fold 3
+F1-Score: 93.15
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 92.29
+17 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.84
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 92.76
+Fold 3
+F1-Score: 93.16
+Fold 4
+F1-Score: 93.13
+Fold 5
+F1-Score: 92.93
+17 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 93.20
+Fold 2
+F1-Score: 93.48
+Fold 3
+F1-Score: 92.75
+Fold 4
+F1-Score: 92.76
+Fold 5
+F1-Score: 92.74
+17 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 92.86
+Fold 2
+F1-Score: 92.86
+Fold 3
+F1-Score: 92.56
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 93.04
+17 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 93.15
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 92.95
+Fold 4
+F1-Score: 93.22
+Fold 5
+F1-Score: 92.62
+17 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 92.55
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 93.92
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 92.54
+17 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 93.04
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 92.79
+Fold 4
+F1-Score: 92.56
+Fold 5
+F1-Score: 92.34
+17 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.75
+----------------------------------------
+Fold 1
+F1-Score: 92.05
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 92.98
+Fold 5
+F1-Score: 92.85
+17 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 93.04
+Fold 3
+F1-Score: 92.45
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 93.79
+17 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 93.16
+----------------------------------------
+Fold 1
+F1-Score: 92.36
+Fold 2
+F1-Score: 93.57
+Fold 3
+F1-Score: 93.34
+Fold 4
+F1-Score: 92.37
+Fold 5
+F1-Score: 93.02
+17 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 92.23
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 92.45
+17 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 93.23
+Fold 2
+F1-Score: 92.57
+Fold 3
+F1-Score: 92.66
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 93.58
+17 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.68
+Fold 2
+F1-Score: 93.25
+Fold 3
+F1-Score: 92.07
+Fold 4
+F1-Score: 93.03
+Fold 5
+F1-Score: 92.69
+17 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.81
+Fold 2
+F1-Score: 93.12
+Fold 3
+F1-Score: 92.58
+Fold 4
+F1-Score: 93.27
+Fold 5
+F1-Score: 92.29
+17 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.68
+Fold 2
+F1-Score: 93.18
+Fold 3
+F1-Score: 93.33
+Fold 4
+F1-Score: 93.50
+Fold 5
+F1-Score: 93.39
+17 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.21
+----------------------------------------
+Fold 1
+F1-Score: 93.03
+Fold 2
+F1-Score: 93.37
+Fold 3
+F1-Score: 92.63
+Fold 4
+F1-Score: 93.14
+Fold 5
+F1-Score: 93.06
+17 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 93.34
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 92.36
+Fold 4
+F1-Score: 92.84
+Fold 5
+F1-Score: 93.09
+17 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 93.27
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.99
+Fold 5
+F1-Score: 93.07
+17 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.04
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+18 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+18 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 93.45
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+18 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 85.87
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+18 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 93.08
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+18 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 85.79
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 83.97
+18 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 85.83
+----------------------------------------
+Fold 1
+F1-Score: 92.47
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 93.11
+Fold 4
+F1-Score: 93.16
+Fold 5
+F1-Score: 92.19
+18 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 90.99
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.89
+Fold 4
+F1-Score: 93.04
+Fold 5
+F1-Score: 93.51
+18 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 91.24
+----------------------------------------
+Fold 1
+F1-Score: 92.90
+Fold 2
+F1-Score: 92.77
+Fold 3
+F1-Score: 93.68
+Fold 4
+F1-Score: 93.43
+Fold 5
+F1-Score: 92.43
+18 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 93.32
+Fold 3
+F1-Score: 93.72
+Fold 4
+F1-Score: 92.72
+Fold 5
+F1-Score: 92.26
+18 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.99
+----------------------------------------
+Fold 1
+F1-Score: 92.75
+Fold 2
+F1-Score: 92.48
+Fold 3
+F1-Score: 92.80
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 93.27
+18 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.94
+Fold 2
+F1-Score: 92.33
+Fold 3
+F1-Score: 92.62
+Fold 4
+F1-Score: 92.44
+Fold 5
+F1-Score: 93.69
+18 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 92.92
+Fold 2
+F1-Score: 92.41
+Fold 3
+F1-Score: 92.32
+Fold 4
+F1-Score: 93.25
+Fold 5
+F1-Score: 92.46
+18 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.67
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 93.07
+Fold 3
+F1-Score: 93.16
+Fold 4
+F1-Score: 93.01
+Fold 5
+F1-Score: 92.08
+18 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.69
+Fold 2
+F1-Score: 92.60
+Fold 3
+F1-Score: 92.72
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 93.11
+18 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.73
+----------------------------------------
+Fold 1
+F1-Score: 92.73
+Fold 2
+F1-Score: 92.25
+Fold 3
+F1-Score: 93.34
+Fold 4
+F1-Score: 92.47
+Fold 5
+F1-Score: 92.94
+18 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.75
+----------------------------------------
+Fold 1
+F1-Score: 92.53
+Fold 2
+F1-Score: 93.10
+Fold 3
+F1-Score: 92.54
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 93.01
+18 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.51
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 93.34
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 93.20
+18 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.17
+Fold 2
+F1-Score: 92.73
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.39
+Fold 5
+F1-Score: 93.29
+18 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 93.10
+Fold 2
+F1-Score: 92.70
+Fold 3
+F1-Score: 93.40
+Fold 4
+F1-Score: 93.12
+Fold 5
+F1-Score: 92.95
+18 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 93.55
+Fold 2
+F1-Score: 93.02
+Fold 3
+F1-Score: 92.55
+Fold 4
+F1-Score: 92.38
+Fold 5
+F1-Score: 93.41
+18 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 92.60
+Fold 2
+F1-Score: 93.25
+Fold 3
+F1-Score: 93.27
+Fold 4
+F1-Score: 93.78
+Fold 5
+F1-Score: 91.81
+18 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 93.12
+Fold 2
+F1-Score: 91.97
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 93.26
+Fold 5
+F1-Score: 93.11
+18 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.29
+Fold 3
+F1-Score: 92.06
+Fold 4
+F1-Score: 92.85
+Fold 5
+F1-Score: 93.69
+18 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 92.34
+Fold 3
+F1-Score: 92.99
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 92.88
+18 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 93.69
+Fold 2
+F1-Score: 92.96
+Fold 3
+F1-Score: 92.99
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 92.65
+18 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.13
+----------------------------------------
+Fold 1
+F1-Score: 93.32
+Fold 2
+F1-Score: 93.19
+Fold 3
+F1-Score: 92.52
+Fold 4
+F1-Score: 92.57
+Fold 5
+F1-Score: 93.01
+18 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 93.51
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 92.83
+Fold 4
+F1-Score: 93.36
+Fold 5
+F1-Score: 93.47
+18 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 93.21
+----------------------------------------
+Fold 1
+F1-Score: 93.03
+Fold 2
+F1-Score: 93.63
+Fold 3
+F1-Score: 92.43
+Fold 4
+F1-Score: 92.76
+Fold 5
+F1-Score: 93.03
+18 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.66
+Fold 2
+F1-Score: 92.86
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.02
+Fold 5
+F1-Score: 93.09
+18 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 92.92
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.66
+Fold 3
+F1-Score: 93.15
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 92.91
+18 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 92.36
+Fold 3
+F1-Score: 92.78
+Fold 4
+F1-Score: 92.79
+Fold 5
+F1-Score: 93.18
+18 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.81
+----------------------------------------
+Fold 1
+F1-Score: 92.71
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 92.44
+Fold 4
+F1-Score: 92.85
+Fold 5
+F1-Score: 93.16
+18 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 92.22
+Fold 4
+F1-Score: 92.40
+Fold 5
+F1-Score: 92.93
+18 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.70
+----------------------------------------
+Fold 1
+F1-Score: 93.18
+Fold 2
+F1-Score: 92.80
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 93.24
+Fold 5
+F1-Score: 93.31
+18 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 93.05
+Fold 2
+F1-Score: 93.41
+Fold 3
+F1-Score: 92.59
+Fold 4
+F1-Score: 93.06
+Fold 5
+F1-Score: 93.20
+18 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 92.97
+Fold 2
+F1-Score: 93.92
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.58
+Fold 5
+F1-Score: 93.11
+18 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.12
+----------------------------------------
+Fold 1
+F1-Score: 92.51
+Fold 2
+F1-Score: 93.11
+Fold 3
+F1-Score: 93.53
+Fold 4
+F1-Score: 92.49
+Fold 5
+F1-Score: 92.21
+18 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 92.57
+Fold 2
+F1-Score: 92.71
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 93.05
+Fold 5
+F1-Score: 93.32
+18 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.62
+Fold 2
+F1-Score: 93.50
+Fold 3
+F1-Score: 93.42
+Fold 4
+F1-Score: 92.88
+Fold 5
+F1-Score: 93.09
+18 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.10
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+19 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+19 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.75
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+19 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 85.72
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 93.32
+Fold 5
+F1-Score: 83.97
+19 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 85.84
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.68
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 92.33
+Fold 5
+F1-Score: 92.83
+19 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 89.15
+----------------------------------------
+Fold 1
+F1-Score: 92.33
+Fold 2
+F1-Score: 93.32
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 93.28
+Fold 5
+F1-Score: 83.97
+19 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 91.16
+----------------------------------------
+Fold 1
+F1-Score: 93.32
+Fold 2
+F1-Score: 92.88
+Fold 3
+F1-Score: 92.77
+Fold 4
+F1-Score: 92.22
+Fold 5
+F1-Score: 93.21
+19 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 92.76
+Fold 2
+F1-Score: 92.58
+Fold 3
+F1-Score: 93.02
+Fold 4
+F1-Score: 93.10
+Fold 5
+F1-Score: 93.73
+19 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 91.87
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 93.00
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 92.22
+19 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 90.74
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 92.34
+Fold 4
+F1-Score: 92.91
+Fold 5
+F1-Score: 92.46
+19 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 92.71
+----------------------------------------
+Fold 1
+F1-Score: 93.40
+Fold 2
+F1-Score: 92.90
+Fold 3
+F1-Score: 92.70
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 93.37
+19 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 91.27
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 92.47
+Fold 3
+F1-Score: 92.56
+Fold 4
+F1-Score: 92.86
+Fold 5
+F1-Score: 93.20
+19 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 92.87
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 93.09
+Fold 3
+F1-Score: 92.97
+Fold 4
+F1-Score: 92.14
+Fold 5
+F1-Score: 92.86
+19 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.86
+----------------------------------------
+Fold 1
+F1-Score: 92.06
+Fold 2
+F1-Score: 92.98
+Fold 3
+F1-Score: 93.29
+Fold 4
+F1-Score: 92.75
+Fold 5
+F1-Score: 92.75
+19 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 93.03
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 93.19
+Fold 4
+F1-Score: 93.73
+Fold 5
+F1-Score: 92.15
+19 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.21
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 93.16
+Fold 4
+F1-Score: 92.32
+Fold 5
+F1-Score: 92.88
+19 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.69
+----------------------------------------
+Fold 1
+F1-Score: 92.87
+Fold 2
+F1-Score: 92.36
+Fold 3
+F1-Score: 91.85
+Fold 4
+F1-Score: 93.45
+Fold 5
+F1-Score: 92.64
+19 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.64
+----------------------------------------
+Fold 1
+F1-Score: 93.36
+Fold 2
+F1-Score: 92.82
+Fold 3
+F1-Score: 92.51
+Fold 4
+F1-Score: 92.73
+Fold 5
+F1-Score: 93.22
+19 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.56
+Fold 2
+F1-Score: 92.39
+Fold 3
+F1-Score: 92.91
+Fold 4
+F1-Score: 92.61
+Fold 5
+F1-Score: 93.21
+19 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 92.74
+----------------------------------------
+Fold 1
+F1-Score: 92.05
+Fold 2
+F1-Score: 93.11
+Fold 3
+F1-Score: 92.87
+Fold 4
+F1-Score: 92.54
+Fold 5
+F1-Score: 93.04
+19 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 92.72
+----------------------------------------
+Fold 1
+F1-Score: 93.11
+Fold 2
+F1-Score: 93.11
+Fold 3
+F1-Score: 92.64
+Fold 4
+F1-Score: 93.00
+Fold 5
+F1-Score: 92.95
+19 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 92.77
+Fold 2
+F1-Score: 93.12
+Fold 3
+F1-Score: 92.94
+Fold 4
+F1-Score: 93.21
+Fold 5
+F1-Score: 93.51
+19 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.11
+----------------------------------------
+Fold 1
+F1-Score: 92.45
+Fold 2
+F1-Score: 92.71
+Fold 3
+F1-Score: 93.66
+Fold 4
+F1-Score: 92.82
+Fold 5
+F1-Score: 92.88
+19 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 92.91
+----------------------------------------
+Fold 1
+F1-Score: 93.12
+Fold 2
+F1-Score: 92.69
+Fold 3
+F1-Score: 93.12
+Fold 4
+F1-Score: 93.33
+Fold 5
+F1-Score: 93.83
+19 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 93.22
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 92.47
+Fold 3
+F1-Score: 93.01
+Fold 4
+F1-Score: 93.36
+Fold 5
+F1-Score: 93.14
+19 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.98
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 92.82
+Fold 3
+F1-Score: 92.71
+Fold 4
+F1-Score: 92.78
+Fold 5
+F1-Score: 93.27
+19 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 92.62
+Fold 2
+F1-Score: 92.38
+Fold 3
+F1-Score: 92.46
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 93.52
+19 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.83
+----------------------------------------
+Fold 1
+F1-Score: 92.51
+Fold 2
+F1-Score: 93.06
+Fold 3
+F1-Score: 93.31
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 93.04
+19 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.95
+----------------------------------------
+Fold 1
+F1-Score: 93.28
+Fold 2
+F1-Score: 93.47
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 93.47
+Fold 5
+F1-Score: 92.71
+19 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 93.16
+----------------------------------------
+Fold 1
+F1-Score: 92.61
+Fold 2
+F1-Score: 93.41
+Fold 3
+F1-Score: 92.80
+Fold 4
+F1-Score: 92.66
+Fold 5
+F1-Score: 93.50
+19 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 92.91
+Fold 2
+F1-Score: 92.58
+Fold 3
+F1-Score: 93.53
+Fold 4
+F1-Score: 93.43
+Fold 5
+F1-Score: 92.91
+19 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 92.96
+Fold 2
+F1-Score: 93.42
+Fold 3
+F1-Score: 93.01
+Fold 4
+F1-Score: 93.13
+Fold 5
+F1-Score: 92.56
+19 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 92.89
+Fold 3
+F1-Score: 92.89
+Fold 4
+F1-Score: 92.89
+Fold 5
+F1-Score: 93.38
+19 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.82
+Fold 2
+F1-Score: 93.20
+Fold 3
+F1-Score: 93.24
+Fold 4
+F1-Score: 93.59
+Fold 5
+F1-Score: 92.17
+19 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 93.00
+----------------------------------------
+Fold 1
+F1-Score: 93.11
+Fold 2
+F1-Score: 93.00
+Fold 3
+F1-Score: 92.85
+Fold 4
+F1-Score: 92.76
+Fold 5
+F1-Score: 92.97
+19 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 92.94
+----------------------------------------
+Fold 1
+F1-Score: 92.89
+Fold 2
+F1-Score: 92.91
+Fold 3
+F1-Score: 93.86
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 92.53
+19 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 93.20
+Fold 2
+F1-Score: 93.21
+Fold 3
+F1-Score: 93.58
+Fold 4
+F1-Score: 93.02
+Fold 5
+F1-Score: 92.04
+19 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.59
+Fold 2
+F1-Score: 93.30
+Fold 3
+F1-Score: 93.07
+Fold 4
+F1-Score: 93.20
+Fold 5
+F1-Score: 92.29
+19 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 92.61
+Fold 4
+F1-Score: 92.53
+Fold 5
+F1-Score: 93.44
+19 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.79
+Fold 2
+F1-Score: 93.30
+Fold 3
+F1-Score: 92.54
+Fold 4
+F1-Score: 92.50
+Fold 5
+F1-Score: 93.07
+19 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 92.84
+################################################################################
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+20 Hidden Layers
+1 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+20 Hidden Layers
+2 Neurons Each
+Mean F1-Score: 83.97
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+20 Hidden Layers
+3 Neurons Each
+Mean F1-Score: 85.75
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 83.99
+Fold 3
+F1-Score: 92.65
+Fold 4
+F1-Score: 93.27
+Fold 5
+F1-Score: 92.89
+20 Hidden Layers
+4 Neurons Each
+Mean F1-Score: 89.35
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 93.60
+Fold 3
+F1-Score: 93.07
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 83.97
+20 Hidden Layers
+5 Neurons Each
+Mean F1-Score: 87.72
+----------------------------------------
+Fold 1
+F1-Score: 83.97
+Fold 2
+F1-Score: 92.53
+Fold 3
+F1-Score: 92.48
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 93.02
+20 Hidden Layers
+6 Neurons Each
+Mean F1-Score: 89.19
+----------------------------------------
+Fold 1
+F1-Score: 93.23
+Fold 2
+F1-Score: 92.52
+Fold 3
+F1-Score: 83.97
+Fold 4
+F1-Score: 93.20
+Fold 5
+F1-Score: 83.97
+20 Hidden Layers
+7 Neurons Each
+Mean F1-Score: 89.38
+----------------------------------------
+Fold 1
+F1-Score: 92.45
+Fold 2
+F1-Score: 93.07
+Fold 3
+F1-Score: 92.91
+Fold 4
+F1-Score: 93.11
+Fold 5
+F1-Score: 92.97
+20 Hidden Layers
+8 Neurons Each
+Mean F1-Score: 92.90
+----------------------------------------
+Fold 1
+F1-Score: 93.75
+Fold 2
+F1-Score: 92.08
+Fold 3
+F1-Score: 93.39
+Fold 4
+F1-Score: 92.84
+Fold 5
+F1-Score: 92.40
+20 Hidden Layers
+9 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.80
+Fold 2
+F1-Score: 92.70
+Fold 3
+F1-Score: 92.33
+Fold 4
+F1-Score: 83.97
+Fold 5
+F1-Score: 93.20
+20 Hidden Layers
+10 Neurons Each
+Mean F1-Score: 91.00
+----------------------------------------
+Fold 1
+F1-Score: 92.38
+Fold 2
+F1-Score: 93.01
+Fold 3
+F1-Score: 92.59
+Fold 4
+F1-Score: 92.91
+Fold 5
+F1-Score: 93.22
+20 Hidden Layers
+11 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.64
+Fold 3
+F1-Score: 93.41
+Fold 4
+F1-Score: 93.13
+Fold 5
+F1-Score: 92.90
+20 Hidden Layers
+12 Neurons Each
+Mean F1-Score: 93.01
+----------------------------------------
+Fold 1
+F1-Score: 92.44
+Fold 2
+F1-Score: 93.06
+Fold 3
+F1-Score: 93.41
+Fold 4
+F1-Score: 92.73
+Fold 5
+F1-Score: 92.15
+20 Hidden Layers
+13 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 93.43
+Fold 2
+F1-Score: 92.08
+Fold 3
+F1-Score: 92.73
+Fold 4
+F1-Score: 93.18
+Fold 5
+F1-Score: 93.42
+20 Hidden Layers
+14 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 92.93
+Fold 2
+F1-Score: 92.87
+Fold 3
+F1-Score: 93.07
+Fold 4
+F1-Score: 92.52
+Fold 5
+F1-Score: 93.07
+20 Hidden Layers
+15 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.83
+Fold 2
+F1-Score: 92.62
+Fold 3
+F1-Score: 92.62
+Fold 4
+F1-Score: 92.37
+Fold 5
+F1-Score: 92.53
+20 Hidden Layers
+16 Neurons Each
+Mean F1-Score: 92.60
+----------------------------------------
+Fold 1
+F1-Score: 93.16
+Fold 2
+F1-Score: 92.25
+Fold 3
+F1-Score: 92.68
+Fold 4
+F1-Score: 92.77
+Fold 5
+F1-Score: 93.57
+20 Hidden Layers
+17 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 93.17
+Fold 2
+F1-Score: 93.72
+Fold 3
+F1-Score: 92.24
+Fold 4
+F1-Score: 93.34
+Fold 5
+F1-Score: 92.86
+20 Hidden Layers
+18 Neurons Each
+Mean F1-Score: 93.07
+----------------------------------------
+Fold 1
+F1-Score: 93.47
+Fold 2
+F1-Score: 92.78
+Fold 3
+F1-Score: 92.44
+Fold 4
+F1-Score: 93.55
+Fold 5
+F1-Score: 93.02
+20 Hidden Layers
+19 Neurons Each
+Mean F1-Score: 93.05
+----------------------------------------
+Fold 1
+F1-Score: 93.06
+Fold 2
+F1-Score: 93.19
+Fold 3
+F1-Score: 93.13
+Fold 4
+F1-Score: 92.22
+Fold 5
+F1-Score: 93.50
+20 Hidden Layers
+20 Neurons Each
+Mean F1-Score: 93.02
+----------------------------------------
+Fold 1
+F1-Score: 92.69
+Fold 2
+F1-Score: 92.63
+Fold 3
+F1-Score: 92.96
+Fold 4
+F1-Score: 92.81
+Fold 5
+F1-Score: 93.04
+20 Hidden Layers
+21 Neurons Each
+Mean F1-Score: 92.82
+----------------------------------------
+Fold 1
+F1-Score: 93.01
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 93.55
+Fold 4
+F1-Score: 93.54
+Fold 5
+F1-Score: 92.98
+20 Hidden Layers
+22 Neurons Each
+Mean F1-Score: 93.18
+----------------------------------------
+Fold 1
+F1-Score: 93.15
+Fold 2
+F1-Score: 92.81
+Fold 3
+F1-Score: 92.93
+Fold 4
+F1-Score: 93.39
+Fold 5
+F1-Score: 92.94
+20 Hidden Layers
+23 Neurons Each
+Mean F1-Score: 93.04
+----------------------------------------
+Fold 1
+F1-Score: 93.13
+Fold 2
+F1-Score: 92.03
+Fold 3
+F1-Score: 92.81
+Fold 4
+F1-Score: 93.30
+Fold 5
+F1-Score: 93.16
+20 Hidden Layers
+24 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.78
+Fold 2
+F1-Score: 92.84
+Fold 3
+F1-Score: 93.10
+Fold 4
+F1-Score: 93.07
+Fold 5
+F1-Score: 92.85
+20 Hidden Layers
+25 Neurons Each
+Mean F1-Score: 92.93
+----------------------------------------
+Fold 1
+F1-Score: 93.09
+Fold 2
+F1-Score: 93.46
+Fold 3
+F1-Score: 92.48
+Fold 4
+F1-Score: 93.42
+Fold 5
+F1-Score: 93.04
+20 Hidden Layers
+26 Neurons Each
+Mean F1-Score: 93.10
+----------------------------------------
+Fold 1
+F1-Score: 93.10
+Fold 2
+F1-Score: 92.82
+Fold 3
+F1-Score: 92.84
+Fold 4
+F1-Score: 92.85
+Fold 5
+F1-Score: 92.81
+20 Hidden Layers
+27 Neurons Each
+Mean F1-Score: 92.88
+----------------------------------------
+Fold 1
+F1-Score: 93.25
+Fold 2
+F1-Score: 92.62
+Fold 3
+F1-Score: 93.11
+Fold 4
+F1-Score: 92.59
+Fold 5
+F1-Score: 93.26
+20 Hidden Layers
+28 Neurons Each
+Mean F1-Score: 92.97
+----------------------------------------
+Fold 1
+F1-Score: 93.87
+Fold 2
+F1-Score: 92.86
+Fold 3
+F1-Score: 92.88
+Fold 4
+F1-Score: 93.31
+Fold 5
+F1-Score: 92.68
+20 Hidden Layers
+29 Neurons Each
+Mean F1-Score: 93.12
+----------------------------------------
+Fold 1
+F1-Score: 93.36
+Fold 2
+F1-Score: 92.99
+Fold 3
+F1-Score: 93.40
+Fold 4
+F1-Score: 92.55
+Fold 5
+F1-Score: 93.02
+20 Hidden Layers
+30 Neurons Each
+Mean F1-Score: 93.06
+----------------------------------------
+Fold 1
+F1-Score: 93.08
+Fold 2
+F1-Score: 92.36
+Fold 3
+F1-Score: 93.18
+Fold 4
+F1-Score: 93.19
+Fold 5
+F1-Score: 92.99
+20 Hidden Layers
+31 Neurons Each
+Mean F1-Score: 92.96
+----------------------------------------
+Fold 1
+F1-Score: 92.21
+Fold 2
+F1-Score: 92.65
+Fold 3
+F1-Score: 93.05
+Fold 4
+F1-Score: 93.17
+Fold 5
+F1-Score: 92.70
+20 Hidden Layers
+32 Neurons Each
+Mean F1-Score: 92.76
+----------------------------------------
+Fold 1
+F1-Score: 92.30
+Fold 2
+F1-Score: 93.07
+Fold 3
+F1-Score: 92.47
+Fold 4
+F1-Score: 93.15
+Fold 5
+F1-Score: 92.87
+20 Hidden Layers
+33 Neurons Each
+Mean F1-Score: 92.77
+----------------------------------------
+Fold 1
+F1-Score: 93.00
+Fold 2
+F1-Score: 93.03
+Fold 3
+F1-Score: 92.58
+Fold 4
+F1-Score: 93.69
+Fold 5
+F1-Score: 92.13
+20 Hidden Layers
+34 Neurons Each
+Mean F1-Score: 92.89
+----------------------------------------
+Fold 1
+F1-Score: 92.59
+Fold 2
+F1-Score: 93.75
+Fold 3
+F1-Score: 92.64
+Fold 4
+F1-Score: 93.66
+Fold 5
+F1-Score: 93.31
+20 Hidden Layers
+35 Neurons Each
+Mean F1-Score: 93.19
+----------------------------------------
+Fold 1
+F1-Score: 93.72
+Fold 2
+F1-Score: 92.95
+Fold 3
+F1-Score: 93.52
+Fold 4
+F1-Score: 93.04
+Fold 5
+F1-Score: 92.61
+20 Hidden Layers
+36 Neurons Each
+Mean F1-Score: 93.17
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.26
+Fold 3
+F1-Score: 93.20
+Fold 4
+F1-Score: 92.83
+Fold 5
+F1-Score: 92.64
+20 Hidden Layers
+37 Neurons Each
+Mean F1-Score: 92.78
+----------------------------------------
+Fold 1
+F1-Score: 93.58
+Fold 2
+F1-Score: 93.30
+Fold 3
+F1-Score: 92.90
+Fold 4
+F1-Score: 93.23
+Fold 5
+F1-Score: 92.82
+20 Hidden Layers
+38 Neurons Each
+Mean F1-Score: 93.16
+----------------------------------------
+Fold 1
+F1-Score: 92.99
+Fold 2
+F1-Score: 92.62
+Fold 3
+F1-Score: 92.97
+Fold 4
+F1-Score: 92.92
+Fold 5
+F1-Score: 92.52
+20 Hidden Layers
+39 Neurons Each
+Mean F1-Score: 92.80
+----------------------------------------
+Fold 1
+F1-Score: 93.13
+Fold 2
+F1-Score: 93.13
+Fold 3
+F1-Score: 92.92
+Fold 4
+F1-Score: 93.29
+Fold 5
+F1-Score: 93.33
+20 Hidden Layers
+40 Neurons Each
+Mean F1-Score: 93.16
+################################################################################

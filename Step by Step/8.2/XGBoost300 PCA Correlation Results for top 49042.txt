@@ -1,0 +1,16 @@
+top49042_correlated with PCA
+The model used is XGBoost Classifier
+#####################################################################################
+PCA with 300 components
+The accuracy is 0.9566620562471185
+The precision is 0.9477911646586346
+The recall is 0.927916120576671
+The F1-Score is 0.937748344370861
+Cross Validation Scores
+Accuracy: Mean = 95.04 % , Std = 0.80 %
+Precision: Mean = 94.28 % , Std = 0.69 %
+Recall: Mean = 91.03 % , Std = 2.01 %
+F1-Score: Mean = 92.62 % , Std = 1.26% 
+#####################################################################################
+Mean F1 Scores of Cross-Validation in Descending Order:
+PCA with 300 components: Mean F1 Score = 92.62%

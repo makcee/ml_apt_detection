@@ -1,0 +1,1192 @@
+top49042_correlated with PCA
+The model used is Decision Tree Classifier
+#####################################################################################
+PCA with 2 components
+The accuracy is 0.7507365939893931
+The precision is 0.8326749435665914
+The recall is 0.8136200716845878
+The F1-Score is 0.8230372333007949
+Cross Validation Scores
+Accuracy: Mean = 75.27 % , Std = 1.07 %
+Precision: Mean = 84.05 % , Std = 0.74 %
+Recall: Mean = 81.24 % , Std = 1.08 %
+F1-Score: Mean = 82.62 % , Std = 0.79% 
+#####################################################################################
+PCA with 3 components
+The accuracy is 0.7908073070123748
+The precision is 0.8471544715447155
+The recall is 0.8618693134822167
+The F1-Score is 0.8544485444854448
+Cross Validation Scores
+Accuracy: Mean = 78.82 % , Std = 0.73 %
+Precision: Mean = 85.94 % , Std = 0.36 %
+Recall: Mean = 84.57 % , Std = 0.95 %
+F1-Score: Mean = 85.25 % , Std = 0.57% 
+#####################################################################################
+PCA with 4 components
+The accuracy is 0.8075034374386172
+The precision is 0.8661134163208852
+The recall is 0.8632478632478633
+The F1-Score is 0.8646782656724662
+Cross Validation Scores
+Accuracy: Mean = 79.78 % , Std = 1.29 %
+Precision: Mean = 86.61 % , Std = 0.66 %
+Recall: Mean = 85.24 % , Std = 1.65 %
+F1-Score: Mean = 85.91 % , Std = 0.99% 
+#####################################################################################
+PCA with 5 components
+The accuracy is 0.8076998625024553
+The precision is 0.8706606942889138
+The recall is 0.8574579542321478
+The F1-Score is 0.8640088901236282
+Cross Validation Scores
+Accuracy: Mean = 79.92 % , Std = 0.95 %
+Precision: Mean = 86.77 % , Std = 0.47 %
+Recall: Mean = 85.25 % , Std = 1.30 %
+F1-Score: Mean = 86.00 % , Std = 0.74% 
+#####################################################################################
+PCA with 6 components
+The accuracy is 0.8061284619917501
+The precision is 0.8660565723793677
+The recall is 0.8610421836228288
+The F1-Score is 0.8635420987142265
+Cross Validation Scores
+Accuracy: Mean = 80.14 % , Std = 1.08 %
+Precision: Mean = 86.84 % , Std = 0.47 %
+Recall: Mean = 85.51 % , Std = 1.44 %
+F1-Score: Mean = 86.17 % , Std = 0.84% 
+#####################################################################################
+PCA with 7 components
+The accuracy is 0.807307012374779
+The precision is 0.8664819944598338
+The recall is 0.8624207333884754
+The F1-Score is 0.8644465938924969
+Cross Validation Scores
+Accuracy: Mean = 80.05 % , Std = 0.94 %
+Precision: Mean = 86.61 % , Std = 0.51 %
+Recall: Mean = 85.68 % , Std = 1.29 %
+F1-Score: Mean = 86.14 % , Std = 0.73% 
+#####################################################################################
+PCA with 8 components
+The accuracy is 0.808681987821646
+The precision is 0.868165417707466
+The recall is 0.8624207333884754
+The F1-Score is 0.865283540802213
+Cross Validation Scores
+Accuracy: Mean = 80.48 % , Std = 0.85 %
+Precision: Mean = 87.12 % , Std = 0.62 %
+Recall: Mean = 85.70 % , Std = 0.78 %
+F1-Score: Mean = 86.40 % , Std = 0.61% 
+#####################################################################################
+PCA with 9 components
+The accuracy is 0.8078962875662935
+The precision is 0.8698687517453225
+The recall is 0.8588365039977943
+The F1-Score is 0.8643174250832408
+Cross Validation Scores
+Accuracy: Mean = 80.71 % , Std = 0.79 %
+Precision: Mean = 87.17 % , Std = 0.51 %
+Recall: Mean = 86.00 % , Std = 0.98 %
+F1-Score: Mean = 86.58 % , Std = 0.60% 
+#####################################################################################
+PCA with 10 components
+The accuracy is 0.8118247888430564
+The precision is 0.8705915023604555
+The recall is 0.8643507030603805
+The F1-Score is 0.8674598782512452
+Cross Validation Scores
+Accuracy: Mean = 80.85 % , Std = 0.89 %
+Precision: Mean = 87.21 % , Std = 0.53 %
+Recall: Mean = 86.17 % , Std = 1.08 %
+F1-Score: Mean = 86.69 % , Std = 0.67% 
+#####################################################################################
+PCA with 11 components
+The accuracy is 0.8188960911412296
+The precision is 0.8755901138572618
+The recall is 0.869313482216708
+The F1-Score is 0.8724405091311566
+Cross Validation Scores
+Accuracy: Mean = 81.67 % , Std = 0.97 %
+Precision: Mean = 88.04 % , Std = 0.50 %
+Recall: Mean = 86.41 % , Std = 1.35 %
+F1-Score: Mean = 87.21 % , Std = 0.75% 
+#####################################################################################
+PCA with 12 components
+The accuracy is 0.819485366332744
+The precision is 0.8748615725359912
+The recall is 0.8712434518886132
+The F1-Score is 0.873048763641387
+Cross Validation Scores
+Accuracy: Mean = 81.73 % , Std = 1.11 %
+Precision: Mean = 87.83 % , Std = 0.80 %
+Recall: Mean = 86.78 % , Std = 1.18 %
+F1-Score: Mean = 87.30 % , Std = 0.81% 
+#####################################################################################
+PCA with 13 components
+The accuracy is 0.8200746415242585
+The precision is 0.8731076245527113
+The recall is 0.8745519713261649
+The F1-Score is 0.8738292011019284
+Cross Validation Scores
+Accuracy: Mean = 81.85 % , Std = 1.24 %
+Precision: Mean = 88.07 % , Std = 0.61 %
+Recall: Mean = 86.65 % , Std = 1.55 %
+F1-Score: Mean = 87.35 % , Std = 0.95% 
+#####################################################################################
+PCA with 14 components
+The accuracy is 0.8228245924179926
+The precision is 0.8775284012191743
+The recall is 0.8731734215605184
+The F1-Score is 0.8753454947484798
+Cross Validation Scores
+Accuracy: Mean = 82.04 % , Std = 0.85 %
+Precision: Mean = 88.08 % , Std = 0.64 %
+Recall: Mean = 86.95 % , Std = 1.05 %
+F1-Score: Mean = 87.51 % , Std = 0.63% 
+#####################################################################################
+PCA with 15 components
+The accuracy is 0.8198782164604204
+The precision is 0.8768075639599555
+The recall is 0.869313482216708
+The F1-Score is 0.8730444413678526
+Cross Validation Scores
+Accuracy: Mean = 81.90 % , Std = 0.84 %
+Precision: Mean = 87.98 % , Std = 0.67 %
+Recall: Mean = 86.86 % , Std = 1.21 %
+F1-Score: Mean = 87.41 % , Std = 0.63% 
+#####################################################################################
+PCA with 16 components
+The accuracy is 0.8255745433117265
+The precision is 0.8824350740016755
+The recall is 0.8712434518886132
+The F1-Score is 0.876803551609323
+Cross Validation Scores
+Accuracy: Mean = 82.03 % , Std = 0.80 %
+Precision: Mean = 88.13 % , Std = 0.54 %
+Recall: Mean = 86.88 % , Std = 1.35 %
+F1-Score: Mean = 87.49 % , Std = 0.64% 
+#####################################################################################
+PCA with 17 components
+The accuracy is 0.8257709683755647
+The precision is 0.8831096196868009
+The recall is 0.8706920319823546
+The F1-Score is 0.8768568651950576
+Cross Validation Scores
+Accuracy: Mean = 81.86 % , Std = 0.85 %
+Precision: Mean = 87.85 % , Std = 0.49 %
+Recall: Mean = 86.96 % , Std = 1.10 %
+F1-Score: Mean = 87.40 % , Std = 0.64% 
+#####################################################################################
+PCA with 18 components
+The accuracy is 0.8251816931840503
+The precision is 0.8787711043454193
+The recall is 0.8753791011855528
+The F1-Score is 0.8770718232044199
+Cross Validation Scores
+Accuracy: Mean = 81.63 % , Std = 0.76 %
+Precision: Mean = 87.66 % , Std = 0.38 %
+Recall: Mean = 86.83 % , Std = 1.08 %
+F1-Score: Mean = 87.24 % , Std = 0.59% 
+#####################################################################################
+PCA with 19 components
+The accuracy is 0.8240031428010214
+The precision is 0.8804680969629424
+The recall is 0.8712434518886132
+The F1-Score is 0.8758314855875832
+Cross Validation Scores
+Accuracy: Mean = 81.89 % , Std = 0.64 %
+Precision: Mean = 87.91 % , Std = 0.32 %
+Recall: Mean = 86.94 % , Std = 1.23 %
+F1-Score: Mean = 87.42 % , Std = 0.54% 
+#####################################################################################
+PCA with 20 components
+The accuracy is 0.8245924179925358
+The precision is 0.8793007769145395
+The recall is 0.873724841466777
+The F1-Score is 0.8765039413635735
+Cross Validation Scores
+Accuracy: Mean = 81.74 % , Std = 0.92 %
+Precision: Mean = 87.92 % , Std = 0.56 %
+Recall: Mean = 86.67 % , Std = 1.02 %
+F1-Score: Mean = 87.29 % , Std = 0.68% 
+#####################################################################################
+PCA with 21 components
+The accuracy is 0.8232174425456689
+The precision is 0.878644820883088
+The recall is 0.8723462917011304
+The F1-Score is 0.8754842280022136
+Cross Validation Scores
+Accuracy: Mean = 81.91 % , Std = 1.16 %
+Precision: Mean = 88.02 % , Std = 0.80 %
+Recall: Mean = 86.83 % , Std = 1.24 %
+F1-Score: Mean = 87.41 % , Std = 0.84% 
+#####################################################################################
+PCA with 22 components
+The accuracy is 0.8214496169711255
+The precision is 0.8766629711751663
+The recall is 0.8720705817480011
+The F1-Score is 0.8743607463718037
+Cross Validation Scores
+Accuracy: Mean = 81.96 % , Std = 0.83 %
+Precision: Mean = 88.00 % , Std = 0.64 %
+Recall: Mean = 86.93 % , Std = 0.99 %
+F1-Score: Mean = 87.46 % , Std = 0.60% 
+#####################################################################################
+PCA with 23 components
+The accuracy is 0.8224317422903162
+The precision is 0.876625172890733
+The recall is 0.873724841466777
+The F1-Score is 0.8751726042529688
+Cross Validation Scores
+Accuracy: Mean = 81.75 % , Std = 0.75 %
+Precision: Mean = 87.82 % , Std = 0.57 %
+Recall: Mean = 86.83 % , Std = 1.01 %
+F1-Score: Mean = 87.32 % , Std = 0.56% 
+#####################################################################################
+PCA with 24 components
+The accuracy is 0.8200746415242585
+The precision is 0.8770514603616133
+The recall is 0.869313482216708
+The F1-Score is 0.8731653281639435
+Cross Validation Scores
+Accuracy: Mean = 81.74 % , Std = 0.87 %
+Precision: Mean = 87.90 % , Std = 0.59 %
+Recall: Mean = 86.71 % , Std = 1.12 %
+F1-Score: Mean = 87.29 % , Std = 0.65% 
+#####################################################################################
+PCA with 25 components
+The accuracy is 0.8171282655666863
+The precision is 0.8711453744493393
+The recall is 0.8723462917011304
+The F1-Score is 0.8717454194792671
+Cross Validation Scores
+Accuracy: Mean = 82.03 % , Std = 0.87 %
+Precision: Mean = 88.01 % , Std = 0.57 %
+Recall: Mean = 87.02 % , Std = 0.84 %
+F1-Score: Mean = 87.51 % , Std = 0.63% 
+#####################################################################################
+PCA with 26 components
+The accuracy is 0.8238067177371833
+The precision is 0.8781163434903048
+The recall is 0.8740005514199063
+The F1-Score is 0.8760536133757082
+Cross Validation Scores
+Accuracy: Mean = 82.09 % , Std = 0.82 %
+Precision: Mean = 88.05 % , Std = 0.55 %
+Recall: Mean = 87.07 % , Std = 0.87 %
+F1-Score: Mean = 87.56 % , Std = 0.60% 
+#####################################################################################
+PCA with 27 components
+The accuracy is 0.8208603417796111
+The precision is 0.876351538674799
+The recall is 0.8715191618417425
+The F1-Score is 0.8739286701686481
+Cross Validation Scores
+Accuracy: Mean = 81.78 % , Std = 0.54 %
+Precision: Mean = 87.89 % , Std = 0.54 %
+Recall: Mean = 86.78 % , Std = 0.80 %
+F1-Score: Mean = 87.33 % , Std = 0.40% 
+#####################################################################################
+PCA with 28 components
+The accuracy is 0.8147711648006286
+The precision is 0.8765432098765432
+The recall is 0.8613178935759581
+The F1-Score is 0.8688638575997775
+Cross Validation Scores
+Accuracy: Mean = 81.63 % , Std = 0.62 %
+Precision: Mean = 87.74 % , Std = 0.47 %
+Recall: Mean = 86.74 % , Std = 1.25 %
+F1-Score: Mean = 87.23 % , Std = 0.52% 
+#####################################################################################
+PCA with 29 components
+The accuracy is 0.8169318405028482
+The precision is 0.8762915386763473
+The recall is 0.8651778329197684
+The F1-Score is 0.8706992230854605
+Cross Validation Scores
+Accuracy: Mean = 81.80 % , Std = 0.64 %
+Precision: Mean = 87.82 % , Std = 0.43 %
+Recall: Mean = 86.90 % , Std = 0.95 %
+F1-Score: Mean = 87.35 % , Std = 0.49% 
+#####################################################################################
+PCA with 30 components
+The accuracy is 0.8188960911412296
+The precision is 0.8778988544286114
+The recall is 0.8662806727322856
+The F1-Score is 0.8720510685539828
+Cross Validation Scores
+Accuracy: Mean = 82.02 % , Std = 1.03 %
+Precision: Mean = 88.09 % , Std = 0.58 %
+Recall: Mean = 86.91 % , Std = 1.17 %
+F1-Score: Mean = 87.49 % , Std = 0.76% 
+#####################################################################################
+PCA with 31 components
+The accuracy is 0.8214496169711255
+The precision is 0.8781302170283807
+The recall is 0.8701406120760959
+The F1-Score is 0.8741171582883257
+Cross Validation Scores
+Accuracy: Mean = 82.03 % , Std = 0.92 %
+Precision: Mean = 88.12 % , Std = 0.43 %
+Recall: Mean = 86.88 % , Std = 0.98 %
+F1-Score: Mean = 87.50 % , Std = 0.68% 
+#####################################################################################
+PCA with 32 components
+The accuracy is 0.8230210174818307
+The precision is 0.8752753303964758
+The recall is 0.87648194099807
+The F1-Score is 0.8758782201405152
+Cross Validation Scores
+Accuracy: Mean = 82.00 % , Std = 1.00 %
+Precision: Mean = 88.05 % , Std = 0.45 %
+Recall: Mean = 86.93 % , Std = 1.26 %
+F1-Score: Mean = 87.48 % , Std = 0.76% 
+#####################################################################################
+PCA with 33 components
+The accuracy is 0.8287173443331369
+The precision is 0.8823202886483485
+The recall is 0.87648194099807
+The F1-Score is 0.8793914246196404
+Cross Validation Scores
+Accuracy: Mean = 82.54 % , Std = 0.97 %
+Precision: Mean = 88.26 % , Std = 0.50 %
+Recall: Mean = 87.50 % , Std = 1.15 %
+F1-Score: Mean = 87.88 % , Std = 0.72% 
+#####################################################################################
+PCA with 34 components
+The accuracy is 0.8285209192692987
+The precision is 0.8820754716981132
+The recall is 0.87648194099807
+The F1-Score is 0.8792698105379616
+Cross Validation Scores
+Accuracy: Mean = 81.76 % , Std = 0.95 %
+Precision: Mean = 87.93 % , Std = 0.63 %
+Recall: Mean = 86.70 % , Std = 0.89 %
+F1-Score: Mean = 87.31 % , Std = 0.68% 
+#####################################################################################
+PCA with 35 components
+The accuracy is 0.8296994696523277
+The precision is 0.8846153846153846
+The recall is 0.8751033912324235
+The F1-Score is 0.8798336798336799
+Cross Validation Scores
+Accuracy: Mean = 82.06 % , Std = 0.87 %
+Precision: Mean = 87.79 % , Std = 0.63 %
+Recall: Mean = 87.38 % , Std = 0.87 %
+F1-Score: Mean = 87.58 % , Std = 0.62% 
+#####################################################################################
+PCA with 36 components
+The accuracy is 0.8336279709290906
+The precision is 0.8854686633388796
+The recall is 0.8803418803418803
+The F1-Score is 0.8828978293930596
+Cross Validation Scores
+Accuracy: Mean = 81.72 % , Std = 0.97 %
+Precision: Mean = 87.82 % , Std = 0.63 %
+Recall: Mean = 86.77 % , Std = 1.19 %
+F1-Score: Mean = 87.29 % , Std = 0.73% 
+#####################################################################################
+PCA with 37 components
+The accuracy is 0.8334315458652524
+The precision is 0.8880201061156102
+The recall is 0.8767576509511993
+The F1-Score is 0.8823529411764706
+Cross Validation Scores
+Accuracy: Mean = 82.12 % , Std = 0.88 %
+Precision: Mean = 88.20 % , Std = 0.40 %
+Recall: Mean = 86.93 % , Std = 1.17 %
+F1-Score: Mean = 87.56 % , Std = 0.68% 
+#####################################################################################
+PCA with 38 components
+The accuracy is 0.8291101944608132
+The precision is 0.8901783187093122
+The recall is 0.8671078025916735
+The F1-Score is 0.8784916201117319
+Cross Validation Scores
+Accuracy: Mean = 81.73 % , Std = 0.66 %
+Precision: Mean = 87.82 % , Std = 0.64 %
+Recall: Mean = 86.80 % , Std = 0.60 %
+F1-Score: Mean = 87.30 % , Std = 0.45% 
+#####################################################################################
+PCA with 39 components
+The accuracy is 0.8320565704183854
+The precision is 0.8860724233983287
+The recall is 0.8770333609043286
+The F1-Score is 0.8815297214909242
+Cross Validation Scores
+Accuracy: Mean = 82.27 % , Std = 0.72 %
+Precision: Mean = 88.10 % , Std = 0.41 %
+Recall: Mean = 87.30 % , Std = 1.05 %
+F1-Score: Mean = 87.69 % , Std = 0.56% 
+#####################################################################################
+PCA with 40 components
+The accuracy is 0.8320565704183854
+The precision is 0.8856427378964942
+The recall is 0.8775847808105872
+The F1-Score is 0.8815953469048609
+Cross Validation Scores
+Accuracy: Mean = 82.27 % , Std = 0.94 %
+Precision: Mean = 88.30 % , Std = 0.54 %
+Recall: Mean = 87.03 % , Std = 1.12 %
+F1-Score: Mean = 87.66 % , Std = 0.70% 
+#####################################################################################
+PCA with 41 components
+The accuracy is 0.8296994696523277
+The precision is 0.8850446428571429
+The recall is 0.8745519713261649
+The F1-Score is 0.8797670226043545
+Cross Validation Scores
+Accuracy: Mean = 81.72 % , Std = 0.86 %
+Precision: Mean = 87.94 % , Std = 0.46 %
+Recall: Mean = 86.62 % , Std = 1.09 %
+F1-Score: Mean = 87.27 % , Std = 0.65% 
+#####################################################################################
+PCA with 42 components
+The accuracy is 0.8334315458652524
+The precision is 0.8860794665184774
+The recall is 0.8792390405293631
+The F1-Score is 0.8826460005535566
+Cross Validation Scores
+Accuracy: Mean = 82.08 % , Std = 0.69 %
+Precision: Mean = 88.16 % , Std = 0.63 %
+Recall: Mean = 86.91 % , Std = 0.72 %
+F1-Score: Mean = 87.53 % , Std = 0.49% 
+#####################################################################################
+PCA with 43 components
+The accuracy is 0.8214496169711255
+The precision is 0.8772903942254303
+The recall is 0.8712434518886132
+The F1-Score is 0.874256467007885
+Cross Validation Scores
+Accuracy: Mean = 82.21 % , Std = 0.58 %
+Precision: Mean = 88.18 % , Std = 0.41 %
+Recall: Mean = 87.10 % , Std = 0.68 %
+F1-Score: Mean = 87.64 % , Std = 0.43% 
+#####################################################################################
+PCA with 44 components
+The accuracy is 0.8298958947161658
+The precision is 0.884433305485937
+The recall is 0.8756548111386822
+The F1-Score is 0.8800221668052092
+Cross Validation Scores
+Accuracy: Mean = 82.05 % , Std = 1.06 %
+Precision: Mean = 88.09 % , Std = 0.40 %
+Recall: Mean = 86.95 % , Std = 1.37 %
+F1-Score: Mean = 87.51 % , Std = 0.81% 
+#####################################################################################
+PCA with 45 components
+The accuracy is 0.8188960911412296
+The precision is 0.8733094120894287
+The recall is 0.8723462917011304
+The F1-Score is 0.8728275862068966
+Cross Validation Scores
+Accuracy: Mean = 81.88 % , Std = 0.88 %
+Precision: Mean = 88.00 % , Std = 0.44 %
+Recall: Mean = 86.81 % , Std = 1.24 %
+F1-Score: Mean = 87.39 % , Std = 0.68% 
+#####################################################################################
+PCA with 46 components
+The accuracy is 0.8285209192692987
+The precision is 0.8831385642737897
+The recall is 0.8751033912324235
+The F1-Score is 0.8791026173660158
+Cross Validation Scores
+Accuracy: Mean = 82.03 % , Std = 0.83 %
+Precision: Mean = 88.28 % , Std = 0.46 %
+Recall: Mean = 86.67 % , Std = 0.81 %
+F1-Score: Mean = 87.47 % , Std = 0.60% 
+#####################################################################################
+PCA with 47 components
+The accuracy is 0.8293066195246513
+The precision is 0.8803088803088803
+The recall is 0.880066170388751
+The F1-Score is 0.8801875086171239
+Cross Validation Scores
+Accuracy: Mean = 82.19 % , Std = 1.06 %
+Precision: Mean = 88.35 % , Std = 0.42 %
+Recall: Mean = 86.84 % , Std = 1.49 %
+F1-Score: Mean = 87.58 % , Std = 0.82% 
+#####################################################################################
+PCA with 48 components
+The accuracy is 0.824788843056374
+The precision is 0.8844531908912004
+The recall is 0.8673835125448028
+The F1-Score is 0.8758351893095768
+Cross Validation Scores
+Accuracy: Mean = 81.80 % , Std = 1.04 %
+Precision: Mean = 87.94 % , Std = 0.59 %
+Recall: Mean = 86.74 % , Std = 1.09 %
+F1-Score: Mean = 87.33 % , Std = 0.76% 
+#####################################################################################
+PCA with 49 components
+The accuracy is 0.8216460420349636
+The precision is 0.8775340183282422
+The recall is 0.8712434518886132
+The F1-Score is 0.874377421140011
+Cross Validation Scores
+Accuracy: Mean = 82.12 % , Std = 1.10 %
+Precision: Mean = 88.31 % , Std = 0.61 %
+Recall: Mean = 86.78 % , Std = 1.18 %
+F1-Score: Mean = 87.54 % , Std = 0.81% 
+#####################################################################################
+PCA with 50 components
+The accuracy is 0.8314672952268709
+The precision is 0.8831995571547191
+The recall is 0.8797904604356217
+The F1-Score is 0.8814917127071823
+Cross Validation Scores
+Accuracy: Mean = 82.06 % , Std = 0.98 %
+Precision: Mean = 88.28 % , Std = 0.57 %
+Recall: Mean = 86.73 % , Std = 1.11 %
+F1-Score: Mean = 87.50 % , Std = 0.72% 
+#####################################################################################
+PCA with 51 components
+The accuracy is 0.8277352190139462
+The precision is 0.883221850613155
+The recall is 0.873724841466777
+The F1-Score is 0.8784476784476785
+Cross Validation Scores
+Accuracy: Mean = 82.40 % , Std = 0.95 %
+Precision: Mean = 88.21 % , Std = 0.49 %
+Recall: Mean = 87.35 % , Std = 0.98 %
+F1-Score: Mean = 87.78 % , Std = 0.70% 
+#####################################################################################
+PCA with 52 components
+The accuracy is 0.8302887448438421
+The precision is 0.8857860932700363
+The recall is 0.8745519713261649
+The F1-Score is 0.8801331853496115
+Cross Validation Scores
+Accuracy: Mean = 82.25 % , Std = 0.99 %
+Precision: Mean = 88.41 % , Std = 0.50 %
+Recall: Mean = 86.86 % , Std = 1.28 %
+F1-Score: Mean = 87.62 % , Std = 0.75% 
+#####################################################################################
+PCA with 53 components
+The accuracy is 0.8312708701630328
+The precision is 0.8800109829763866
+The recall is 0.883650399779432
+The F1-Score is 0.8818269363048562
+Cross Validation Scores
+Accuracy: Mean = 82.25 % , Std = 1.02 %
+Precision: Mean = 88.18 % , Std = 0.59 %
+Recall: Mean = 87.15 % , Std = 1.00 %
+F1-Score: Mean = 87.66 % , Std = 0.74% 
+#####################################################################################
+PCA with 54 components
+The accuracy is 0.8222353172264781
+The precision is 0.8772172949002217
+The recall is 0.8726220016542597
+The F1-Score is 0.874913614374568
+Cross Validation Scores
+Accuracy: Mean = 82.61 % , Std = 0.94 %
+Precision: Mean = 88.56 % , Std = 0.46 %
+Recall: Mean = 87.23 % , Std = 1.12 %
+F1-Score: Mean = 87.89 % , Std = 0.70% 
+#####################################################################################
+PCA with 55 components
+The accuracy is 0.8230210174818307
+The precision is 0.8777716186252772
+The recall is 0.8731734215605184
+The F1-Score is 0.8754664823773324
+Cross Validation Scores
+Accuracy: Mean = 82.14 % , Std = 0.68 %
+Precision: Mean = 88.20 % , Std = 0.39 %
+Recall: Mean = 86.96 % , Std = 1.05 %
+F1-Score: Mean = 87.57 % , Std = 0.53% 
+#####################################################################################
+PCA with 56 components
+The accuracy is 0.8363779218228246
+The precision is 0.8865522966242391
+The recall is 0.8833746898263027
+The F1-Score is 0.8849606407954702
+Cross Validation Scores
+Accuracy: Mean = 82.23 % , Std = 0.88 %
+Precision: Mean = 88.30 % , Std = 0.53 %
+Recall: Mean = 86.98 % , Std = 1.01 %
+F1-Score: Mean = 87.63 % , Std = 0.65% 
+#####################################################################################
+PCA with 57 components
+The accuracy is 0.8277352190139462
+The precision is 0.8827951002227171
+The recall is 0.8742762613730356
+The F1-Score is 0.8785150297825184
+Cross Validation Scores
+Accuracy: Mean = 82.30 % , Std = 0.76 %
+Precision: Mean = 88.33 % , Std = 0.46 %
+Recall: Mean = 87.04 % , Std = 0.76 %
+F1-Score: Mean = 87.68 % , Std = 0.55% 
+#####################################################################################
+PCA with 58 components
+The accuracy is 0.8287173443331369
+The precision is 0.8810511756569848
+The recall is 0.8781362007168458
+The F1-Score is 0.8795912731289699
+Cross Validation Scores
+Accuracy: Mean = 82.35 % , Std = 0.67 %
+Precision: Mean = 88.34 % , Std = 0.61 %
+Recall: Mean = 87.11 % , Std = 0.88 %
+F1-Score: Mean = 87.72 % , Std = 0.49% 
+#####################################################################################
+PCA with 59 components
+The accuracy is 0.8306815949715184
+The precision is 0.8822228366049212
+The recall is 0.8797904604356217
+The F1-Score is 0.8810049696300386
+Cross Validation Scores
+Accuracy: Mean = 82.63 % , Std = 1.10 %
+Precision: Mean = 88.57 % , Std = 0.65 %
+Recall: Mean = 87.25 % , Std = 1.23 %
+F1-Score: Mean = 87.90 % , Std = 0.81% 
+#####################################################################################
+PCA with 60 components
+The accuracy is 0.8314672952268709
+The precision is 0.8859771396710343
+The recall is 0.8762062310449408
+The F1-Score is 0.8810645966176879
+Cross Validation Scores
+Accuracy: Mean = 82.01 % , Std = 0.49 %
+Precision: Mean = 88.03 % , Std = 0.58 %
+Recall: Mean = 86.98 % , Std = 0.68 %
+F1-Score: Mean = 87.50 % , Std = 0.34% 
+#####################################################################################
+PCA with 61 components
+The accuracy is 0.8243959929286977
+The precision is 0.8775904946117712
+The recall is 0.8756548111386822
+The F1-Score is 0.8766215843223848
+Cross Validation Scores
+Accuracy: Mean = 82.67 % , Std = 0.79 %
+Precision: Mean = 88.45 % , Std = 0.51 %
+Recall: Mean = 87.47 % , Std = 0.99 %
+F1-Score: Mean = 87.96 % , Std = 0.59% 
+#####################################################################################
+PCA with 62 components
+The accuracy is 0.8326458456098998
+The precision is 0.8846686997504851
+The recall is 0.8797904604356217
+The F1-Score is 0.8822228366049212
+Cross Validation Scores
+Accuracy: Mean = 82.37 % , Std = 0.62 %
+Precision: Mean = 88.28 % , Std = 0.46 %
+Recall: Mean = 87.22 % , Std = 1.00 %
+F1-Score: Mean = 87.75 % , Std = 0.48% 
+#####################################################################################
+PCA with 63 components
+The accuracy is 0.8330386957375762
+The precision is 0.8864458669635402
+The recall is 0.8781362007168458
+The F1-Score is 0.8822714681440443
+Cross Validation Scores
+Accuracy: Mean = 82.19 % , Std = 0.76 %
+Precision: Mean = 88.32 % , Std = 0.72 %
+Recall: Mean = 86.90 % , Std = 0.86 %
+F1-Score: Mean = 87.60 % , Std = 0.54% 
+#####################################################################################
+PCA with 64 components
+The accuracy is 0.8293066195246513
+The precision is 0.8822062084257206
+The recall is 0.8775847808105872
+The F1-Score is 0.8798894263994471
+Cross Validation Scores
+Accuracy: Mean = 82.08 % , Std = 0.87 %
+Precision: Mean = 87.82 % , Std = 0.71 %
+Recall: Mean = 87.35 % , Std = 0.88 %
+F1-Score: Mean = 87.58 % , Std = 0.62% 
+#####################################################################################
+PCA with 65 components
+The accuracy is 0.8375564722058535
+The precision is 0.8886729594669628
+The recall is 0.8825475599669148
+The F1-Score is 0.8855996680038732
+Cross Validation Scores
+Accuracy: Mean = 82.50 % , Std = 0.71 %
+Precision: Mean = 88.26 % , Std = 0.54 %
+Recall: Mean = 87.46 % , Std = 0.68 %
+F1-Score: Mean = 87.86 % , Std = 0.50% 
+#####################################################################################
+PCA with 66 components
+The accuracy is 0.8279316440777843
+The precision is 0.8804979253112033
+The recall is 0.8775847808105872
+The F1-Score is 0.8790389395194698
+Cross Validation Scores
+Accuracy: Mean = 82.03 % , Std = 0.91 %
+Precision: Mean = 88.19 % , Std = 0.53 %
+Recall: Mean = 86.80 % , Std = 1.02 %
+F1-Score: Mean = 87.49 % , Std = 0.68% 
+#####################################################################################
+PCA with 67 components
+The accuracy is 0.8253781182478884
+The precision is 0.8809126321647189
+The recall is 0.872897711607389
+The F1-Score is 0.8768868577759313
+Cross Validation Scores
+Accuracy: Mean = 82.78 % , Std = 0.86 %
+Precision: Mean = 88.39 % , Std = 0.83 %
+Recall: Mean = 87.75 % , Std = 0.74 %
+F1-Score: Mean = 88.06 % , Std = 0.58% 
+#####################################################################################
+PCA with 68 components
+The accuracy is 0.830092319780004
+The precision is 0.8791872597473915
+The recall is 0.8828232699200441
+The F1-Score is 0.8810015132755538
+Cross Validation Scores
+Accuracy: Mean = 82.68 % , Std = 0.56 %
+Precision: Mean = 88.53 % , Std = 0.17 %
+Recall: Mean = 87.39 % , Std = 0.79 %
+F1-Score: Mean = 87.95 % , Std = 0.44% 
+#####################################################################################
+PCA with 69 components
+The accuracy is 0.8361814967589865
+The precision is 0.8878089419605665
+The recall is 0.8814447201543976
+The F1-Score is 0.8846153846153846
+Cross Validation Scores
+Accuracy: Mean = 82.32 % , Std = 1.00 %
+Precision: Mean = 88.28 % , Std = 0.60 %
+Recall: Mean = 87.14 % , Std = 0.94 %
+F1-Score: Mean = 87.70 % , Std = 0.72% 
+#####################################################################################
+PCA with 70 components
+The accuracy is 0.8304851699076802
+The precision is 0.8834628190899001
+The recall is 0.8778604907637165
+The F1-Score is 0.8806527451251556
+Cross Validation Scores
+Accuracy: Mean = 82.61 % , Std = 0.60 %
+Precision: Mean = 88.45 % , Std = 0.40 %
+Recall: Mean = 87.38 % , Std = 0.67 %
+F1-Score: Mean = 87.91 % , Std = 0.44% 
+#####################################################################################
+PCA with 71 components
+The accuracy is 0.8279316440777843
+The precision is 0.8847552447552448
+The recall is 0.8720705817480011
+The F1-Score is 0.8783671202443766
+Cross Validation Scores
+Accuracy: Mean = 82.53 % , Std = 0.33 %
+Precision: Mean = 88.37 % , Std = 0.41 %
+Recall: Mean = 87.36 % , Std = 0.52 %
+F1-Score: Mean = 87.86 % , Std = 0.24% 
+#####################################################################################
+PCA with 72 components
+The accuracy is 0.8253781182478884
+The precision is 0.884334643458731
+The recall is 0.8684863523573201
+The F1-Score is 0.8763388510223953
+Cross Validation Scores
+Accuracy: Mean = 82.37 % , Std = 0.62 %
+Precision: Mean = 88.18 % , Std = 0.65 %
+Recall: Mean = 87.34 % , Std = 0.68 %
+F1-Score: Mean = 87.76 % , Std = 0.43% 
+#####################################################################################
+PCA with 73 components
+The accuracy is 0.8255745433117265
+The precision is 0.8830769230769231
+The recall is 0.8704163220292253
+The F1-Score is 0.8767009164121078
+Cross Validation Scores
+Accuracy: Mean = 82.35 % , Std = 0.73 %
+Precision: Mean = 88.21 % , Std = 0.87 %
+Recall: Mean = 87.29 % , Std = 0.74 %
+F1-Score: Mean = 87.74 % , Std = 0.49% 
+#####################################################################################
+PCA with 74 components
+The accuracy is 0.8279316440777843
+The precision is 0.8838961763885013
+The recall is 0.8731734215605184
+The F1-Score is 0.878502080443828
+Cross Validation Scores
+Accuracy: Mean = 82.54 % , Std = 0.71 %
+Precision: Mean = 88.11 % , Std = 0.47 %
+Recall: Mean = 87.72 % , Std = 1.01 %
+F1-Score: Mean = 87.91 % , Std = 0.54% 
+#####################################################################################
+PCA with 75 components
+The accuracy is 0.8353957965036338
+The precision is 0.8861811132650236
+The recall is 0.8822718500137855
+The F1-Score is 0.8842221608179055
+Cross Validation Scores
+Accuracy: Mean = 82.30 % , Std = 0.85 %
+Precision: Mean = 88.32 % , Std = 0.64 %
+Recall: Mean = 87.05 % , Std = 0.66 %
+F1-Score: Mean = 87.68 % , Std = 0.60% 
+#####################################################################################
+PCA with 76 components
+The accuracy is 0.8365743468866628
+The precision is 0.8861563967946947
+The recall is 0.8842018196856907
+The F1-Score is 0.8851780292575214
+Cross Validation Scores
+Accuracy: Mean = 82.34 % , Std = 1.05 %
+Precision: Mean = 88.34 % , Std = 0.59 %
+Recall: Mean = 87.10 % , Std = 1.28 %
+F1-Score: Mean = 87.71 % , Std = 0.79% 
+#####################################################################################
+PCA with 77 components
+The accuracy is 0.8230210174818307
+The precision is 0.8800892359174568
+The recall is 0.8701406120760959
+The F1-Score is 0.8750866491057813
+Cross Validation Scores
+Accuracy: Mean = 82.48 % , Std = 0.77 %
+Precision: Mean = 88.45 % , Std = 0.76 %
+Recall: Mean = 87.18 % , Std = 0.82 %
+F1-Score: Mean = 87.81 % , Std = 0.54% 
+#####################################################################################
+PCA with 78 components
+The accuracy is 0.8367707719505009
+The precision is 0.8891982182628062
+The recall is 0.8806175902950096
+The F1-Score is 0.8848871034769359
+Cross Validation Scores
+Accuracy: Mean = 82.89 % , Std = 0.64 %
+Precision: Mean = 88.59 % , Std = 0.64 %
+Recall: Mean = 87.65 % , Std = 0.58 %
+F1-Score: Mean = 88.12 % , Std = 0.44% 
+#####################################################################################
+PCA with 79 components
+The accuracy is 0.8269495187585936
+The precision is 0.8794914317302377
+The recall is 0.8773090708574579
+The F1-Score is 0.8783988957902001
+Cross Validation Scores
+Accuracy: Mean = 82.44 % , Std = 0.59 %
+Precision: Mean = 88.37 % , Std = 0.56 %
+Recall: Mean = 87.22 % , Std = 0.75 %
+F1-Score: Mean = 87.79 % , Std = 0.42% 
+#####################################################################################
+PCA with 80 components
+The accuracy is 0.8291101944608132
+The precision is 0.8821735514277793
+The recall is 0.8773090708574579
+The F1-Score is 0.8797345866740393
+Cross Validation Scores
+Accuracy: Mean = 82.79 % , Std = 0.91 %
+Precision: Mean = 88.53 % , Std = 0.56 %
+Recall: Mean = 87.57 % , Std = 1.33 %
+F1-Score: Mean = 88.04 % , Std = 0.69% 
+#####################################################################################
+PCA with 81 components
+The accuracy is 0.830092319780004
+The precision is 0.8825484764542936
+The recall is 0.8784119106699751
+The F1-Score is 0.8804753350835982
+Cross Validation Scores
+Accuracy: Mean = 82.42 % , Std = 0.95 %
+Precision: Mean = 88.23 % , Std = 0.61 %
+Recall: Mean = 87.37 % , Std = 0.92 %
+F1-Score: Mean = 87.80 % , Std = 0.69% 
+#####################################################################################
+PCA with 82 components
+The accuracy is 0.8312708701630328
+The precision is 0.8865921787709498
+The recall is 0.8751033912324235
+The F1-Score is 0.8808103232967948
+Cross Validation Scores
+Accuracy: Mean = 82.64 % , Std = 0.62 %
+Precision: Mean = 88.28 % , Std = 0.46 %
+Recall: Mean = 87.65 % , Std = 0.86 %
+F1-Score: Mean = 87.96 % , Std = 0.47% 
+#####################################################################################
+PCA with 83 components
+The accuracy is 0.828913769396975
+The precision is 0.8857782754759238
+The recall is 0.8723462917011304
+The F1-Score is 0.8790109737463536
+Cross Validation Scores
+Accuracy: Mean = 82.95 % , Std = 1.02 %
+Precision: Mean = 88.64 % , Std = 0.80 %
+Recall: Mean = 87.69 % , Std = 0.90 %
+F1-Score: Mean = 88.16 % , Std = 0.71% 
+#####################################################################################
+PCA with 84 components
+The accuracy is 0.8291101944608132
+The precision is 0.8851634534786254
+The recall is 0.8734491315136477
+The F1-Score is 0.8792672772689425
+Cross Validation Scores
+Accuracy: Mean = 82.54 % , Std = 0.58 %
+Precision: Mean = 88.46 % , Std = 0.51 %
+Recall: Mean = 87.26 % , Std = 0.67 %
+F1-Score: Mean = 87.85 % , Std = 0.42% 
+#####################################################################################
+PCA with 85 components
+The accuracy is 0.8283244942054606
+The precision is 0.8846046381670858
+The recall is 0.872897711607389
+The F1-Score is 0.8787121842908687
+Cross Validation Scores
+Accuracy: Mean = 82.75 % , Std = 0.71 %
+Precision: Mean = 88.31 % , Std = 0.63 %
+Recall: Mean = 87.79 % , Std = 0.73 %
+F1-Score: Mean = 88.05 % , Std = 0.50% 
+#####################################################################################
+PCA with 86 components
+The accuracy is 0.8306815949715184
+The precision is 0.8830701025214741
+The recall is 0.8786876206231045
+The F1-Score is 0.880873410724157
+Cross Validation Scores
+Accuracy: Mean = 82.85 % , Std = 0.79 %
+Precision: Mean = 88.57 % , Std = 0.51 %
+Recall: Mean = 87.60 % , Std = 0.85 %
+F1-Score: Mean = 88.08 % , Std = 0.58% 
+#####################################################################################
+PCA with 87 components
+The accuracy is 0.8330386957375762
+The precision is 0.8853733000277546
+The recall is 0.8795147504824924
+The F1-Score is 0.8824343015214384
+Cross Validation Scores
+Accuracy: Mean = 82.35 % , Std = 0.98 %
+Precision: Mean = 88.02 % , Std = 0.59 %
+Recall: Mean = 87.51 % , Std = 1.04 %
+F1-Score: Mean = 87.77 % , Std = 0.71% 
+#####################################################################################
+PCA with 88 components
+The accuracy is 0.8273423688862699
+The precision is 0.8795580110497238
+The recall is 0.8778604907637165
+The F1-Score is 0.8787084310749276
+Cross Validation Scores
+Accuracy: Mean = 82.63 % , Std = 0.76 %
+Precision: Mean = 88.42 % , Std = 0.82 %
+Recall: Mean = 87.47 % , Std = 0.74 %
+F1-Score: Mean = 87.94 % , Std = 0.52% 
+#####################################################################################
+PCA with 89 components
+The accuracy is 0.8336279709290906
+The precision is 0.8889199776161164
+The recall is 0.8759305210918115
+The F1-Score is 0.8823774475767254
+Cross Validation Scores
+Accuracy: Mean = 82.78 % , Std = 0.38 %
+Precision: Mean = 88.53 % , Std = 0.47 %
+Recall: Mean = 87.56 % , Std = 0.42 %
+F1-Score: Mean = 88.04 % , Std = 0.26% 
+#####################################################################################
+PCA with 90 components
+The accuracy is 0.8340208210567669
+The precision is 0.887249443207127
+The recall is 0.8786876206231045
+The F1-Score is 0.882947776700374
+Cross Validation Scores
+Accuracy: Mean = 82.52 % , Std = 0.91 %
+Precision: Mean = 88.49 % , Std = 0.50 %
+Recall: Mean = 87.19 % , Std = 1.22 %
+F1-Score: Mean = 87.83 % , Std = 0.70% 
+#####################################################################################
+PCA with 91 components
+The accuracy is 0.8353957965036338
+The precision is 0.886395123302854
+The recall is 0.8819961400606562
+The F1-Score is 0.8841901603095633
+Cross Validation Scores
+Accuracy: Mean = 82.51 % , Std = 0.77 %
+Precision: Mean = 88.05 % , Std = 0.74 %
+Recall: Mean = 87.75 % , Std = 0.66 %
+F1-Score: Mean = 87.90 % , Std = 0.52% 
+#####################################################################################
+PCA with 92 components
+The accuracy is 0.8401099980357494
+The precision is 0.8882141871377311
+The recall is 0.8872346291701131
+The F1-Score is 0.8877241379310344
+Cross Validation Scores
+Accuracy: Mean = 82.88 % , Std = 0.99 %
+Precision: Mean = 88.42 % , Std = 0.83 %
+Recall: Mean = 87.85 % , Std = 0.67 %
+F1-Score: Mean = 88.13 % , Std = 0.67% 
+#####################################################################################
+PCA with 93 components
+The accuracy is 0.8403064230995875
+The precision is 0.8906163242642976
+The recall is 0.88447752963882
+The F1-Score is 0.8875363120763591
+Cross Validation Scores
+Accuracy: Mean = 83.19 % , Std = 0.68 %
+Precision: Mean = 88.66 % , Std = 0.64 %
+Recall: Mean = 88.04 % , Std = 0.71 %
+F1-Score: Mean = 88.35 % , Std = 0.47% 
+#####################################################################################
+PCA with 94 components
+The accuracy is 0.8236102926733451
+The precision is 0.8825343425848051
+The recall is 0.8679349324510615
+The F1-Score is 0.8751737559077009
+Cross Validation Scores
+Accuracy: Mean = 82.26 % , Std = 0.87 %
+Precision: Mean = 88.20 % , Std = 0.82 %
+Recall: Mean = 87.15 % , Std = 0.92 %
+F1-Score: Mean = 87.67 % , Std = 0.61% 
+#####################################################################################
+PCA with 95 components
+The accuracy is 0.8334315458652524
+The precision is 0.8839458413926499
+The recall is 0.8819961400606562
+The F1-Score is 0.8829699144355506
+Cross Validation Scores
+Accuracy: Mean = 82.52 % , Std = 0.99 %
+Precision: Mean = 88.25 % , Std = 0.79 %
+Recall: Mean = 87.51 % , Std = 1.18 %
+F1-Score: Mean = 87.87 % , Std = 0.72% 
+#####################################################################################
+PCA with 96 components
+The accuracy is 0.8267530936947555
+The precision is 0.8777869529314616
+The recall is 0.8792390405293631
+The F1-Score is 0.8785123966942149
+Cross Validation Scores
+Accuracy: Mean = 82.66 % , Std = 0.63 %
+Precision: Mean = 88.37 % , Std = 0.71 %
+Recall: Mean = 87.58 % , Std = 0.60 %
+F1-Score: Mean = 87.97 % , Std = 0.42% 
+#####################################################################################
+PCA with 97 components
+The accuracy is 0.8267530936947555
+The precision is 0.8786206896551724
+The recall is 0.8781362007168458
+The F1-Score is 0.8783783783783784
+Cross Validation Scores
+Accuracy: Mean = 82.45 % , Std = 1.03 %
+Precision: Mean = 88.15 % , Std = 0.78 %
+Recall: Mean = 87.52 % , Std = 1.06 %
+F1-Score: Mean = 87.83 % , Std = 0.74% 
+#####################################################################################
+PCA with 98 components
+The accuracy is 0.8318601453545472
+The precision is 0.8834763354553004
+The recall is 0.880066170388751
+The F1-Score is 0.881767955801105
+Cross Validation Scores
+Accuracy: Mean = 82.80 % , Std = 1.17 %
+Precision: Mean = 88.42 % , Std = 0.78 %
+Recall: Mean = 87.72 % , Std = 1.31 %
+F1-Score: Mean = 88.06 % , Std = 0.86% 
+#####################################################################################
+PCA with 99 components
+The accuracy is 0.8265566686309173
+The precision is 0.8806881243063263
+The recall is 0.8751033912324235
+The F1-Score is 0.8778868759507675
+Cross Validation Scores
+Accuracy: Mean = 82.59 % , Std = 0.72 %
+Precision: Mean = 88.32 % , Std = 0.76 %
+Recall: Mean = 87.53 % , Std = 0.62 %
+F1-Score: Mean = 87.92 % , Std = 0.49% 
+#####################################################################################
+PCA with 100 components
+The accuracy is 0.8330386957375762
+The precision is 0.881980742778542
+The recall is 0.8839261097325614
+The F1-Score is 0.8829523547232168
+Cross Validation Scores
+Accuracy: Mean = 82.49 % , Std = 0.52 %
+Precision: Mean = 88.20 % , Std = 0.52 %
+Recall: Mean = 87.51 % , Std = 0.69 %
+F1-Score: Mean = 87.85 % , Std = 0.38% 
+#####################################################################################
+Mean F1 Scores of Cross-Validation in Descending Order:
+PCA with 93 components: Mean F1 Score = 88.35%
+PCA with 83 components: Mean F1 Score = 88.16%
+PCA with 92 components: Mean F1 Score = 88.13%
+PCA with 78 components: Mean F1 Score = 88.12%
+PCA with 86 components: Mean F1 Score = 88.08%
+PCA with 98 components: Mean F1 Score = 88.06%
+PCA with 67 components: Mean F1 Score = 88.06%
+PCA with 85 components: Mean F1 Score = 88.05%
+PCA with 80 components: Mean F1 Score = 88.04%
+PCA with 89 components: Mean F1 Score = 88.04%
+PCA with 96 components: Mean F1 Score = 87.97%
+PCA with 82 components: Mean F1 Score = 87.96%
+PCA with 61 components: Mean F1 Score = 87.96%
+PCA with 68 components: Mean F1 Score = 87.95%
+PCA with 88 components: Mean F1 Score = 87.94%
+PCA with 99 components: Mean F1 Score = 87.92%
+PCA with 74 components: Mean F1 Score = 87.91%
+PCA with 70 components: Mean F1 Score = 87.91%
+PCA with 59 components: Mean F1 Score = 87.90%
+PCA with 91 components: Mean F1 Score = 87.90%
+PCA with 54 components: Mean F1 Score = 87.89%
+PCA with 33 components: Mean F1 Score = 87.88%
+PCA with 95 components: Mean F1 Score = 87.87%
+PCA with 71 components: Mean F1 Score = 87.86%
+PCA with 65 components: Mean F1 Score = 87.86%
+PCA with 100 components: Mean F1 Score = 87.85%
+PCA with 84 components: Mean F1 Score = 87.85%
+PCA with 97 components: Mean F1 Score = 87.83%
+PCA with 90 components: Mean F1 Score = 87.83%
+PCA with 77 components: Mean F1 Score = 87.81%
+PCA with 81 components: Mean F1 Score = 87.80%
+PCA with 79 components: Mean F1 Score = 87.79%
+PCA with 51 components: Mean F1 Score = 87.78%
+PCA with 87 components: Mean F1 Score = 87.77%
+PCA with 72 components: Mean F1 Score = 87.76%
+PCA with 62 components: Mean F1 Score = 87.75%
+PCA with 73 components: Mean F1 Score = 87.74%
+PCA with 58 components: Mean F1 Score = 87.72%
+PCA with 76 components: Mean F1 Score = 87.71%
+PCA with 69 components: Mean F1 Score = 87.70%
+PCA with 39 components: Mean F1 Score = 87.69%
+PCA with 75 components: Mean F1 Score = 87.68%
+PCA with 57 components: Mean F1 Score = 87.68%
+PCA with 94 components: Mean F1 Score = 87.67%
+PCA with 53 components: Mean F1 Score = 87.66%
+PCA with 40 components: Mean F1 Score = 87.66%
+PCA with 43 components: Mean F1 Score = 87.64%
+PCA with 56 components: Mean F1 Score = 87.63%
+PCA with 52 components: Mean F1 Score = 87.62%
+PCA with 63 components: Mean F1 Score = 87.60%
+PCA with 64 components: Mean F1 Score = 87.58%
+PCA with 47 components: Mean F1 Score = 87.58%
+PCA with 35 components: Mean F1 Score = 87.58%
+PCA with 55 components: Mean F1 Score = 87.57%
+PCA with 26 components: Mean F1 Score = 87.56%
+PCA with 37 components: Mean F1 Score = 87.56%
+PCA with 49 components: Mean F1 Score = 87.54%
+PCA with 42 components: Mean F1 Score = 87.53%
+PCA with 25 components: Mean F1 Score = 87.51%
+PCA with 44 components: Mean F1 Score = 87.51%
+PCA with 14 components: Mean F1 Score = 87.51%
+PCA with 60 components: Mean F1 Score = 87.50%
+PCA with 50 components: Mean F1 Score = 87.50%
+PCA with 31 components: Mean F1 Score = 87.50%
+PCA with 16 components: Mean F1 Score = 87.49%
+PCA with 30 components: Mean F1 Score = 87.49%
+PCA with 66 components: Mean F1 Score = 87.49%
+PCA with 32 components: Mean F1 Score = 87.48%
+PCA with 46 components: Mean F1 Score = 87.47%
+PCA with 22 components: Mean F1 Score = 87.46%
+PCA with 19 components: Mean F1 Score = 87.42%
+PCA with 15 components: Mean F1 Score = 87.41%
+PCA with 21 components: Mean F1 Score = 87.41%
+PCA with 17 components: Mean F1 Score = 87.40%
+PCA with 45 components: Mean F1 Score = 87.39%
+PCA with 29 components: Mean F1 Score = 87.35%
+PCA with 13 components: Mean F1 Score = 87.35%
+PCA with 48 components: Mean F1 Score = 87.33%
+PCA with 27 components: Mean F1 Score = 87.33%
+PCA with 23 components: Mean F1 Score = 87.32%
+PCA with 34 components: Mean F1 Score = 87.31%
+PCA with 38 components: Mean F1 Score = 87.30%
+PCA with 12 components: Mean F1 Score = 87.30%
+PCA with 24 components: Mean F1 Score = 87.29%
+PCA with 20 components: Mean F1 Score = 87.29%
+PCA with 36 components: Mean F1 Score = 87.29%
+PCA with 41 components: Mean F1 Score = 87.27%
+PCA with 18 components: Mean F1 Score = 87.24%
+PCA with 28 components: Mean F1 Score = 87.23%
+PCA with 11 components: Mean F1 Score = 87.21%
+PCA with 10 components: Mean F1 Score = 86.69%
+PCA with 9 components: Mean F1 Score = 86.58%
+PCA with 8 components: Mean F1 Score = 86.40%
+PCA with 6 components: Mean F1 Score = 86.17%
+PCA with 7 components: Mean F1 Score = 86.14%
+PCA with 5 components: Mean F1 Score = 86.00%
+PCA with 4 components: Mean F1 Score = 85.91%
+PCA with 3 components: Mean F1 Score = 85.25%
+PCA with 2 components: Mean F1 Score = 82.62%

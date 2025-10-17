@@ -1,0 +1,16 @@
+top49042_correlated with PCA
+The model used is Random Forest classifier
+#####################################################################################
+PCA with 300 components
+The accuracy is 0.9202397418165053
+The precision is 0.9263005780346821
+The recall is 0.8401048492791612
+The F1-Score is 0.8810996563573883
+Cross Validation Scores
+Accuracy: Mean = 91.84 % , Std = 1.01 %
+Precision: Mean = 93.16 % , Std = 2.07 %
+Recall: Mean = 82.28 % , Std = 2.85 %
+F1-Score: Mean = 87.34 % , Std = 1.67% 
+#####################################################################################
+Mean F1 Scores of Cross-Validation in Descending Order:
+PCA with 300 components: Mean F1 Score = 87.34%

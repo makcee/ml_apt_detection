@@ -1,0 +1,8 @@
+1 Hidden Layers
+12 Neurons Each
+Mean accuracy_score: 95.47
+Mean precision_score: 93.89
+Mean recall_score: 92.82
+Mean F1-Score: 93.35
+----------------------------------------
+################################################################################
